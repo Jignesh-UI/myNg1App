@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="MyApp">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Personal : Investments</title>
+<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap-theme.min.css">
+<link rel="stylesheet" type="text/css" href="css/custome.css">
+<script type="text/javascript" src="js/angular.js"></script>
+<script type="text/javascript" src="js/sanitize.js"></script>
+<script type="text/javascript" src="js/route.js"></script>
+<script type="text/javascript" src="js/myjs.js"></script>
+</head>
+<body>
+<div class="panel panel-default">
+  <div class="panel-heading">LIC ULIP Policy</div>
+  <div class="panel-body">
+    <table class="table table-bordered">
+      <tr>
+        <th>Company</th>
+        <td>Life insurance corporation of india</td>
+      </tr>
+      <tr>
+        <th>Plan Name</th>
+        <td><div class="alert alert-info">LIC Wealth Plus Fund</div></td>
+      </tr>
+    </table>
+    <br>
+    <table class="table table-bordered">
+      <thead>
+
+      <tr>
+      	<th colspan="2">Current Return</th>
+      	<td colspan="4">{{netReturn()}}</td>
+        </tr>
+        <tr>
+          <th>Date</th>
+          <th>Units</th>
+          <th>Nav Rs</th>
+          <th>Net</th>
+          <th>Change</th>
+          <th>Positive/Negative</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="ud in ulipdata">
+          <td>{{ud.Date}}</td>
+          <td>{{ud.Units | number:4}}</td>
+          <td>{{ud.NavRate | number:4}} </td>
+          <td>{{ud.Units * ud.NavRate | number:2}}</td>
+          <td>{{ud.Change | number:2}}</td>
+          <td>{{ud.PNReport}}</td>
+        </tr>
+      </tbody>
+      <tfoot>
+      
+      <tr>
+      	<th colspan="2">Current Return</th>
+      	<td colspan="4">{{netReturn()}}</td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</div>
+</body>
+</html>

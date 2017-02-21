@@ -1,0 +1,219 @@
+<div class="col-lg-12 col-md-12">
+  <div class="panel panel-default">
+    <div class="panel-heading">Hold Stocks</div>
+    <div class="panel-body">
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th><a href="javascript:;" ng-click="predicate = 'Exchange'; reverse=!reverse">Ex</a></th>
+            <th><a href="javascript:;" ng-click="predicate = 'Stock'; reverse=!reverse">Stock</a></th>
+            <th><a href="javascript:;" ng-click="predicate = 'Qty'; reverse=!reverse">Qty.</a></th>
+            <th><a href="javascript:;" ng-click="predicate = 'Price'; reverse=!reverse">Price</a></th>
+            <th><a href="javascript:;" ng-click="predicate = 'Brokerage_incl_taxes'; reverse=!reverse">Brokerage</a></th>
+            <th>Net Amount</th>
+          </tr>
+          <tr>
+            <th></th>
+            <th></th>
+            <th><input type="text" name="txthstock" id="txthstock" ng-model="txthstock" class="form-control"></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="records in HData = (HoldData | filter:{Stock:txthstock}) | orderBy:predicate:reverse">
+            <td>{{records.Date | date:'yyyy-MM-dd'}}</td>
+            <td>{{records.Exchange}}</td>
+            <td>{{records.Stock}}</td>
+            <td>{{records.Qty}}</td>
+            <td>{{records.Price}}</td>
+            <td>{{records.Brokerage_incl_taxes}}</td>
+            <td>{{parseFloat(records.TradeValue) + records.Brokerage_incl_taxes | number:2}}</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <th>{{TotalNetValue(HData) | number:2}}</th>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+<div class="col-lg-6 col-md-6">
+  <div class="panel panel-default">
+    <div class="panel-heading">Buy Stock List</div>
+    <div class="panel-body">
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th><a href="javascript:;" ng-click="predicate = 'Exchange'; reverse=!reverse">Ex</a></th>
+            <th><a href="javascript:;" ng-click="predicate = 'Stock'; reverse=!reverse">Stock</a></th>
+            <th><a href="javascript:;" ng-click="predicate = 'Qty'; reverse=!reverse">Qty.</a></th>
+            <th><a href="javascript:;" ng-click="predicate = 'Price'; reverse=!reverse">Price</a></th>
+            <th>Net Amount</th>
+          </tr>
+          <tr>
+            <th></th>
+            <th></th>
+            <th><input type="text" name="txtpstock" id="txtpstock" ng-model="txtpstock" class="form-control"></th>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="records in BData = (BuyData | filter:{'Stock':txtpstock}) | orderBy:predicate:reverse" ng-show="records.Status==='Sold'">
+            <td>{{records.Date | date:'yyyy-MM-dd'}}</td>
+            <td>{{records.Exchange}}</td>
+            <td>{{records.Stock}}</td>
+            <td>{{records.Qty}}</td>
+            <td>{{records.Price}}</td>
+            <td>{{parseFloat(records.TradeValue) + records.Brokerage_incl_taxes | number:2}}</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <th>{{TotalNetValue(BData) | number:2}}</th>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+<div class="col-lg-6 col-md-6">
+  <div class="panel panel-default">
+    <div class="panel-heading">Sold Stock List</div>
+    <div class="panel-body">
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th><a href="javascript:;" ng-click="predicate = 'Exchange'; reverse=!reverse">E</a></th>
+            <th><a href="javascript:;" ng-click="predicate = 'Stock'; reverse=!reverse">Stock</a></th>
+            <th><a href="javascript:;" ng-click="predicate = 'Qty'; reverse=!reverse">Qty.</a></th>
+            <th><a href="javascript:;" ng-click="predicate = 'Price'; reverse=!reverse">Price</a></th>
+            <th>Net Amount</th>
+          </tr>
+          <tr>
+            <th></th>
+            <th></th>
+            <th><input type="text" name="txtsstock" id="txtsstock" ng-model="txtsstock" class="form-control"></th>
+            <th></th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="records in SData = (SellData | filter:{'Stock':txtsstock}) | orderBy:predicate:reverse">
+            <td>{{records.Date | date:'yyyy-MM-dd'}}</td>
+            <td>{{records.Exchange}}</td>
+            <td>{{records.Stock}}</td>
+            <td>{{records.Qty}}</td>
+            <td>{{records.Price}}</td>
+            <td>{{parseFloat(records.TradeValue) + records.Brokerage_incl_taxes | number:2}}</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <th>{{TotalNetValue(SData) | number:2}}</th>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</div>
+<div class="col-lg-12 col-md-12">
+  <div class="panel panel-default">
+    <div class="panel-heading">Summary</div>
+    <div class="panel-body">
+      <table>
+        <tr>
+          <td style="width:32%;"><table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th colspan="2">Net Purchase</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Total Traded Value</th>
+                  <td>{{TotalTradedValue(BData) | number:2}}</td>
+                </tr>
+                <tr>
+                  <th>Total Brokerage</th>
+                  <td>{{TotalBrokerageValue(BData) | number:2}}</td>
+                </tr>
+                <tr>
+                  <th>Net Amount</th>
+                  <td>{{TotalNetValue(BData) | number:2}}</td>
+                </tr>
+              </tbody>
+            </table></td>
+          <td style="width:2%;"></td>
+          <td style="width:32%;"><table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th colspan="2">Net Sales</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Total Traded Value</th>
+                  <td>{{TotalTradedValue(SData) | number:2}}</td>
+                </tr>
+                <tr>
+                  <th>Total Brokerage</th>
+                  <td>{{TotalBrokerageValue(SData) | number:2}}</td>
+                </tr>
+                <tr>
+                  <th>Net Amount</th>
+                  <td>{{TotalNetValue(SData) | number:2}}</td>
+                </tr>
+              </tbody>
+            </table></td>
+          <td style="width:2%;"></td>
+          <td style="width:32%;"><table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th colspan="2">Hold Stocks</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Total Traded Value</th>
+                  <td>{{TotalTradedValue(HData) | number:2}}</td>
+                </tr>
+                <tr>
+                  <th>Total Brokerage</th>
+                  <td>{{TotalBrokerageValue(HData) | number:2}}</td>
+                </tr>
+                <tr>
+                  <th>Net Amount</th>
+                  <td>{{NetSoldValue(HData) | number:2}}</td>
+                </tr>
+              </tbody>
+            </table></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>

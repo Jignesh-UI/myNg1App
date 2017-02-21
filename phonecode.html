@@ -1,0 +1,25 @@
+<div class="col-lg-12 col-md-12">
+  <div class="panel panel-default">
+    <div class="panel-heading">Phone Codes</div>
+    <div class="panel-body">
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th><a href="javascript:;" ng-click="predicate = 'Code'; reverse=!reverse">Code</a></th>
+            <th><a href="javascript:;" ng-click="predicate = 'Description'; reverse=!reverse">Description</a></th>
+          </tr>
+          <tr>
+          	<th><input type="text" name="txtcode" id="txtcode" ng-model="txtcode" class="form-control"></th>
+          	<th><input type="text" name="txtdesc" id="txtdesc" ng-model="txtdesc" class="form-control"></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="records in pdata = (phonecodedata | filter : {Code:txtcode} | filter : {Description:txtdesc}) | orderBy:predicate:reverse">
+            <td>{{records.Code}}</td>
+            <td ng-bind-html="records.Description"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

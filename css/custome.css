@@ -1,0 +1,15 @@
+.padding0, body, .container-fluid, .container-fluid > nav.navbar { padding: 0; }
+.margin0, body { margin: 0; }
+body { font-family: Arial, Helvetica, sans-serif; line-height: normal; }
+.clear { clear: both; }
+.container-fluid > section.container-fluid { padding: 0 10px; }
+.navbar { -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0; }
+h1, .h1, h2, .h2, h3, .h3 { margin-top: 0; }
+.panel-body { padding:5px; }
+#view .col-md-1, #view .col-md-2, #view .col-md-3, #view .col-md-4, #view .col-md-5, #view .col-md-6, #view .col-md-7, #view .col-md-8, #view .col-md-9, #view .col-md-10, #view .col-md-11, #view .col-md-12 { padding:0 5px; }
+#view .col-lg-1, #view .col-lg-2, #view .col-lg-3, #view .col-lg-4, #view .col-lg-5, #view .col-lg-6, #view .col-lg-7, #view .col-lg-8, #view .col-lg-9, #view .col-lg-10, #view .col-lg-11, #view .col-lg-12 { padding:0 5px; }
+.example-animate-container { background:white; border:1px solid black; list-style:none; margin:0; padding:0 10px; }
+.animate-repeat { line-height:40px; list-style:none; box-sizing:border-box; }
+.animate-repeat.ng-move, .animate-repeat.ng-enter, .animate-repeat.ng-leave { -webkit-transition:all linear 0.5s; transition:all linear 0.5s; }
+.animate-repeat.ng-leave.ng-leave-active, .animate-repeat.ng-move, .animate-repeat.ng-enter { opacity:0; max-height:0; }
+.animate-repeat.ng-leave, .animate-repeat.ng-move.ng-move-active, .animate-repeat.ng-enter.ng-enter-active { opacity:1; max-height:40px; }

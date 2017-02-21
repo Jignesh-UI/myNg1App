@@ -1,0 +1,1346 @@
+[
+    {
+        "Date": "10/31/2014",
+        "Units": 3490.937,
+        "NavRate": 12.7826,
+        "Net": 44623.251,
+        "Change": 0,
+        "PNReport": 0
+    },
+    {
+        "Date": "11/1/2014",
+        "Units": 3490.937,
+        "NavRate": 12.784,
+        "Net": 44628.139,
+        "Change": 4.887,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/3/2014",
+        "Units": 3487.227,
+        "NavRate": 12.8054,
+        "Net": 44655.337,
+        "Change": 27.198,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/5/2014",
+        "Units": 3487.227,
+        "NavRate": 12.8252,
+        "Net": 44724.384,
+        "Change": 69.047,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/7/2014",
+        "Units": 3487.227,
+        "NavRate": 12.7997,
+        "Net": 44635.459,
+        "Change": -88.924,
+        "PNReport": -1
+    },
+    {
+        "Date": "11/8/2014",
+        "Units": 3487.227,
+        "NavRate": 12.801,
+        "Net": 44639.993,
+        "Change": 4.533,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/10/2014",
+        "Units": 3487.227,
+        "NavRate": 12.8053,
+        "Net": 44654.988,
+        "Change": 14.995,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/11/2014",
+        "Units": 3487.227,
+        "NavRate": 12.8255,
+        "Net": 44725.43,
+        "Change": 70.442,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/12/2014",
+        "Units": 3487.227,
+        "NavRate": 12.8326,
+        "Net": 44750.189,
+        "Change": 24.759,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/15/2014",
+        "Units": 3487.227,
+        "NavRate": 12.834,
+        "Net": 44755.071,
+        "Change": 4.882,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/17/2014",
+        "Units": 3487.227,
+        "NavRate": 12.8977,
+        "Net": 44977.208,
+        "Change": 222.136,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/18/2014",
+        "Units": 3487.227,
+        "NavRate": 12.9297,
+        "Net": 45088.799,
+        "Change": 111.591,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/19/2014",
+        "Units": 3487.227,
+        "NavRate": 12.8837,
+        "Net": 44928.386,
+        "Change": -160.412,
+        "PNReport": -1
+    },
+    {
+        "Date": "11/20/2014",
+        "Units": 3487.227,
+        "NavRate": 12.8861,
+        "Net": 44936.756,
+        "Change": 8.369,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/22/2014",
+        "Units": 3487.227,
+        "NavRate": 12.9647,
+        "Net": 45210.852,
+        "Change": 274.096,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/24/2014",
+        "Units": 3487.227,
+        "NavRate": 13.0134,
+        "Net": 45380.68,
+        "Change": 169.828,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/25/2014",
+        "Units": 3487.227,
+        "NavRate": 12.939,
+        "Net": 45121.23,
+        "Change": -259.45,
+        "PNReport": -1
+    },
+    {
+        "Date": "11/26/2014",
+        "Units": 3487.227,
+        "NavRate": 12.9545,
+        "Net": 45175.282,
+        "Change": 54.052,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/27/2014",
+        "Units": 3487.227,
+        "NavRate": 12.9794,
+        "Net": 45262.114,
+        "Change": 86.832,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/29/2014",
+        "Units": 3487.227,
+        "NavRate": 13.0879,
+        "Net": 45640.478,
+        "Change": 378.364,
+        "PNReport": 1
+    },
+    {
+        "Date": "11/30/2014",
+        "Units": 3487.227,
+        "NavRate": 13.0365,
+        "Net": 45461.235,
+        "Change": -179.243,
+        "PNReport": -1
+    },
+    {
+        "Date": "12/2/2014",
+        "Units": 3487.227,
+        "NavRate": 13.0499,
+        "Net": 45507.964,
+        "Change": 46.729,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/3/2014",
+        "Units": 3483.589,
+        "NavRate": 13.0691,
+        "Net": 45527.373,
+        "Change": 19.409,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/4/2014",
+        "Units": 3483.589,
+        "NavRate": 13.0953,
+        "Net": 45618.643,
+        "Change": 91.27,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/5/2014",
+        "Units": 3483.589,
+        "NavRate": 13.0958,
+        "Net": 45620.385,
+        "Change": 1.742,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/6/2014",
+        "Units": 3483.589,
+        "NavRate": 13.097,
+        "Net": 45624.565,
+        "Change": 4.18,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/8/2014",
+        "Units": 3483.589,
+        "NavRate": 13.0314,
+        "Net": 45396.042,
+        "Change": -228.523,
+        "PNReport": -1
+    },
+    {
+        "Date": "12/9/2014",
+        "Units": 3483.589,
+        "NavRate": 12.9297,
+        "Net": 45041.761,
+        "Change": -354.281,
+        "PNReport": -1
+    },
+    {
+        "Date": "12/10/2014",
+        "Units": 3483.589,
+        "NavRate": 12.9605,
+        "Net": 45149.055,
+        "Change": 107.295,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/11/2014",
+        "Units": 3483.589,
+        "NavRate": 12.9175,
+        "Net": 44999.261,
+        "Change": -149.794,
+        "PNReport": -1
+    },
+    {
+        "Date": "12/12/2014",
+        "Units": 3483.589,
+        "NavRate": 12.8862,
+        "Net": 44890.225,
+        "Change": -109.036,
+        "PNReport": -1
+    },
+    {
+        "Date": "12/13/2014",
+        "Units": 3483.589,
+        "NavRate": 12.8638,
+        "Net": 44812.192,
+        "Change": -78.032,
+        "PNReport": -1
+    },
+    {
+        "Date": "12/15/2014",
+        "Units": 3483.589,
+        "NavRate": 12.8521,
+        "Net": 44771.434,
+        "Change": -40.758,
+        "PNReport": -1
+    },
+    {
+        "Date": "12/16/2014",
+        "Units": 3483.589,
+        "NavRate": 12.6858,
+        "Net": 44192.113,
+        "Change": -579.321,
+        "PNReport": -1
+    },
+    {
+        "Date": "12/17/2014",
+        "Units": 3483.589,
+        "NavRate": 12.8103,
+        "Net": 44625.82,
+        "Change": 433.707,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/19/2014",
+        "Units": 3483.589,
+        "NavRate": 12.8601,
+        "Net": 44799.303,
+        "Change": 173.483,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/20/2014",
+        "Units": 3483.589,
+        "NavRate": 12.8614,
+        "Net": 44803.832,
+        "Change": 4.529,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/22/2014",
+        "Units": 3483.589,
+        "NavRate": 12.9293,
+        "Net": 45040.367,
+        "Change": 236.536,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/23/2014",
+        "Units": 3483.589,
+        "NavRate": 12.8711,
+        "Net": 44837.622,
+        "Change": -202.745,
+        "PNReport": -1
+    },
+    {
+        "Date": "12/24/2014",
+        "Units": 3483.589,
+        "NavRate": 12.8119,
+        "Net": 44631.394,
+        "Change": -206.228,
+        "PNReport": -1
+    },
+    {
+        "Date": "12/26/2014",
+        "Units": 3483.589,
+        "NavRate": 12.8328,
+        "Net": 44704.201,
+        "Change": 72.807,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/27/2014",
+        "Units": 3483.589,
+        "NavRate": 12.834,
+        "Net": 44708.381,
+        "Change": 4.18,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/29/2014",
+        "Units": 3483.589,
+        "NavRate": 12.863,
+        "Net": 44809.405,
+        "Change": 101.024,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/30/2014",
+        "Units": 3483.589,
+        "NavRate": 12.8728,
+        "Net": 44843.544,
+        "Change": 34.139,
+        "PNReport": 1
+    },
+    {
+        "Date": "12/31/2014",
+        "Units": 3483.589,
+        "NavRate": 12.8828,
+        "Net": 44878.38,
+        "Change": 34.836,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/1/2015",
+        "Units": 3479.915,
+        "NavRate": 12.9193,
+        "Net": 44958.066,
+        "Change": 79.685,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/3/2015",
+        "Units": 3479.915,
+        "NavRate": 13.0019,
+        "Net": 45245.507,
+        "Change": 287.441,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/5/2015",
+        "Units": 3479.915,
+        "NavRate": 12.9953,
+        "Net": 45222.539,
+        "Change": -22.967,
+        "PNReport": -1
+    },
+    {
+        "Date": "1/6/2015",
+        "Units": 3479.915,
+        "NavRate": 12.7837,
+        "Net": 44486.189,
+        "Change": -736.35,
+        "PNReport": -1
+    },
+    {
+        "Date": "1/7/2015",
+        "Units": 3479.915,
+        "NavRate": 12.7478,
+        "Net": 44361.26,
+        "Change": -124.929,
+        "PNReport": -1
+    },
+    {
+        "Date": "1/8/2015",
+        "Units": 3479.915,
+        "NavRate": 12.8352,
+        "Net": 44665.405,
+        "Change": 304.145,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/9/2015",
+        "Units": 3479.915,
+        "NavRate": 12.8365,
+        "Net": 44669.929,
+        "Change": 4.524,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/10/2015",
+        "Units": 3479.915,
+        "NavRate": 12.8378,
+        "Net": 44674.453,
+        "Change": 4.524,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/12/2015",
+        "Units": 3479.915,
+        "NavRate": 12.8751,
+        "Net": 44804.254,
+        "Change": 129.801,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/14/2015",
+        "Units": 3479.915,
+        "NavRate": 12.8207,
+        "Net": 44614.946,
+        "Change": -189.307,
+        "PNReport": -1
+    },
+    {
+        "Date": "1/15/2015",
+        "Units": 3479.915,
+        "NavRate": 13.0159,
+        "Net": 45294.226,
+        "Change": 679.279,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/16/2015",
+        "Units": 3479.915,
+        "NavRate": 13.0328,
+        "Net": 45353.036,
+        "Change": 58.811,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/17/2015",
+        "Units": 3479.915,
+        "NavRate": 13.0341,
+        "Net": 45357.56,
+        "Change": 4.524,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/19/2015",
+        "Units": 3479.915,
+        "NavRate": 13.0786,
+        "Net": 45512.416,
+        "Change": 154.856,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/20/2015",
+        "Units": 3479.915,
+        "NavRate": 13.1813,
+        "Net": 45869.804,
+        "Change": 357.387,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/21/2015",
+        "Units": 3479.915,
+        "NavRate": 13.2039,
+        "Net": 45948.45,
+        "Change": 78.646,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/22/2015",
+        "Units": 3479.915,
+        "NavRate": 13.2069,
+        "Net": 45958.889,
+        "Change": 10.44,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/24/2015",
+        "Units": 3479.915,
+        "NavRate": 13.2668,
+        "Net": 46167.336,
+        "Change": 208.447,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/27/2015",
+        "Units": 3479.915,
+        "NavRate": 13.3318,
+        "Net": 46393.531,
+        "Change": 226.194,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/28/2015",
+        "Units": 3479.915,
+        "NavRate": 13.3304,
+        "Net": 46388.659,
+        "Change": -4.872,
+        "PNReport": -1
+    },
+    {
+        "Date": "1/29/2015",
+        "Units": 3479.915,
+        "NavRate": 13.356,
+        "Net": 46477.745,
+        "Change": 89.086,
+        "PNReport": 1
+    },
+    {
+        "Date": "1/31/2015",
+        "Units": 3479.915,
+        "NavRate": 13.2373,
+        "Net": 46064.679,
+        "Change": -413.066,
+        "PNReport": -1
+    },
+    {
+        "Date": "2/2/2015",
+        "Units": 3476.332,
+        "NavRate": 13.2364,
+        "Net": 46014.121,
+        "Change": -50.558,
+        "PNReport": -1
+    },
+    {
+        "Date": "2/3/2015",
+        "Units": 3476.332,
+        "NavRate": 13.1833,
+        "Net": 45829.528,
+        "Change": -184.593,
+        "PNReport": -1
+    },
+    {
+        "Date": "2/4/2015",
+        "Units": 3476.332,
+        "NavRate": 13.1557,
+        "Net": 45733.581,
+        "Change": -95.947,
+        "PNReport": -1
+    },
+    {
+        "Date": "2/5/2015",
+        "Units": 3476.332,
+        "NavRate": 13.0916,
+        "Net": 45510.748,
+        "Change": -222.833,
+        "PNReport": -1
+    },
+    {
+        "Date": "2/7/2015",
+        "Units": 3476.332,
+        "NavRate": 13.0464,
+        "Net": 45353.618,
+        "Change": -157.13,
+        "PNReport": -1
+    },
+    {
+        "Date": "2/9/2015",
+        "Units": 3476.332,
+        "NavRate": 12.9029,
+        "Net": 44854.764,
+        "Change": -498.854,
+        "PNReport": -1
+    },
+    {
+        "Date": "2/10/2015",
+        "Units": 3476.332,
+        "NavRate": 12.9537,
+        "Net": 45031.362,
+        "Change": 176.598,
+        "PNReport": 1
+    },
+    {
+        "Date": "2/11/2015",
+        "Units": 3476.332,
+        "NavRate": 12.9951,
+        "Net": 45175.282,
+        "Change": 143.92,
+        "PNReport": 1
+    },
+    {
+        "Date": "2/12/2015",
+        "Units": 3476.332,
+        "NavRate": 13.064,
+        "Net": 45414.801,
+        "Change": 239.519,
+        "PNReport": 1
+    },
+    {
+        "Date": "2/14/2015",
+        "Units": 3476.332,
+        "NavRate": 13.1426,
+        "Net": 45688.041,
+        "Change": 273.24,
+        "PNReport": 1
+    },
+    {
+        "Date": "2/16/2015",
+        "Units": 3476.332,
+        "NavRate": 13.147,
+        "Net": 45703.337,
+        "Change": 15.296,
+        "PNReport": 1
+    },
+    {
+        "Date": "2/18/2015",
+        "Units": 3476.332,
+        "NavRate": 13.1888,
+        "Net": 45848.647,
+        "Change": 145.311,
+        "PNReport": 1
+    },
+    {
+        "Date": "2/21/2015",
+        "Units": 3476.332,
+        "NavRate": 13.1857,
+        "Net": 45837.871,
+        "Change": -10.777,
+        "PNReport": -1
+    },
+    {
+        "Date": "2/23/2015",
+        "Units": 3476.332,
+        "NavRate": 13.1294,
+        "Net": 45642.153,
+        "Change": -195.717,
+        "PNReport": -1
+    },
+    {
+        "Date": "2/24/2015",
+        "Units": 3476.332,
+        "NavRate": 13.1315,
+        "Net": 45649.454,
+        "Change": 7.3,
+        "PNReport": 1
+    },
+    {
+        "Date": "2/25/2015",
+        "Units": 3476.332,
+        "NavRate": 13.1191,
+        "Net": 45606.347,
+        "Change": -43.107,
+        "PNReport": -1
+    },
+    {
+        "Date": "2/26/2015",
+        "Units": 3476.332,
+        "NavRate": 13.0519,
+        "Net": 45372.738,
+        "Change": -233.61,
+        "PNReport": -1
+    },
+    {
+        "Date": "2/28/2015",
+        "Units": 3476.332,
+        "NavRate": 13.1942,
+        "Net": 45867.42,
+        "Change": 494.682,
+        "PNReport": 1
+    },
+    {
+        "Date": "3/2/2015",
+        "Units": 3472.738,
+        "NavRate": 13.2345,
+        "Net": 45959.951,
+        "Change": 92.531,
+        "PNReport": 1
+    },
+    {
+        "Date": "3/3/2015",
+        "Units": 3472.738,
+        "NavRate": 13.2756,
+        "Net": 46102.681,
+        "Change": 142.73,
+        "PNReport": 1
+    },
+    {
+        "Date": "3/4/2015",
+        "Units": 3472.738,
+        "NavRate": 13.2125,
+        "Net": 45883.551,
+        "Change": -219.13,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/5/2015",
+        "Units": 3472.738,
+        "NavRate": 13.2162,
+        "Net": 45896.4,
+        "Change": 12.849,
+        "PNReport": 1
+    },
+    {
+        "Date": "3/8/2015",
+        "Units": 3472.738,
+        "NavRate": 13.0672,
+        "Net": 45378.962,
+        "Change": -517.438,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/10/2015",
+        "Units": 3472.738,
+        "NavRate": 13.0358,
+        "Net": 45269.918,
+        "Change": -109.044,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/11/2015",
+        "Units": 3472.738,
+        "NavRate": 13.0113,
+        "Net": 45184.836,
+        "Change": -85.082,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/12/2015",
+        "Units": 3472.738,
+        "NavRate": 13.0784,
+        "Net": 45417.857,
+        "Change": 233.021,
+        "PNReport": 1
+    },
+    {
+        "Date": "3/14/2015",
+        "Units": 3472.738,
+        "NavRate": 12.9674,
+        "Net": 45032.383,
+        "Change": -385.474,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/16/2015",
+        "Units": 3472.738,
+        "NavRate": 12.959,
+        "Net": 45003.212,
+        "Change": -29.171,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/17/2015",
+        "Units": 3472.738,
+        "NavRate": 13.0281,
+        "Net": 45243.178,
+        "Change": 239.966,
+        "PNReport": 1
+    },
+    {
+        "Date": "3/18/2015",
+        "Units": 3472.738,
+        "NavRate": 13.0112,
+        "Net": 45184.489,
+        "Change": -58.689,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/19/2015",
+        "Units": 3472.738,
+        "NavRate": 12.9562,
+        "Net": 44993.488,
+        "Change": -191.001,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/20/2015",
+        "Units": 3472.738,
+        "NavRate": 12.8954,
+        "Net": 44782.346,
+        "Change": -211.142,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/23/2015",
+        "Units": 3472.738,
+        "NavRate": 12.868,
+        "Net": 44687.193,
+        "Change": -95.153,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/24/2015",
+        "Units": 3472.738,
+        "NavRate": 12.8544,
+        "Net": 44639.963,
+        "Change": -47.229,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/25/2015",
+        "Units": 3472.738,
+        "NavRate": 12.8171,
+        "Net": 44510.43,
+        "Change": -129.533,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/26/2015",
+        "Units": 3472.738,
+        "NavRate": 12.7078,
+        "Net": 44130.86,
+        "Change": -379.57,
+        "PNReport": -1
+    },
+    {
+        "Date": "3/27/2015",
+        "Units": 3472.738,
+        "NavRate": 12.7302,
+        "Net": 44208.649,
+        "Change": 77.789,
+        "PNReport": 1
+    },
+    {
+        "Date": "3/30/2015",
+        "Units": 3472.738,
+        "NavRate": 12.8345,
+        "Net": 44570.856,
+        "Change": 362.207,
+        "PNReport": 1
+    },
+    {
+        "Date": "3/31/2015",
+        "Units": 3472.738,
+        "NavRate": 12.8284,
+        "Net": 44549.672,
+        "Change": -21.184,
+        "PNReport": -1
+    },
+    {
+        "Date": "4/1/2015",
+        "Units": 3468.977,
+        "NavRate": 12.901,
+        "Net": 44753.272,
+        "Change": 203.6,
+        "PNReport": 1
+    },
+    {
+        "Date": "4/4/2015",
+        "Units": 3468.977,
+        "NavRate": 12.9045,
+        "Net": 44765.414,
+        "Change": 12.141,
+        "PNReport": 1
+    },
+    {
+        "Date": "4/6/2015",
+        "Units": 3468.977,
+        "NavRate": 12.9447,
+        "Net": 44904.867,
+        "Change": 139.453,
+        "PNReport": 1
+    },
+    {
+        "Date": "4/7/2015",
+        "Units": 3468.977,
+        "NavRate": 12.9484,
+        "Net": 44917.702,
+        "Change": 12.835,
+        "PNReport": 1
+    },
+    {
+        "Date": "4/8/2015",
+        "Units": 3468.977,
+        "NavRate": 12.9919,
+        "Net": 45068.602,
+        "Change": 150.9,
+        "PNReport": 1
+    },
+    {
+        "Date": "4/9/2015",
+        "Units": 3468.977,
+        "NavRate": 13.0558,
+        "Net": 45290.27,
+        "Change": 221.668,
+        "PNReport": 1
+    },
+    {
+        "Date": "4/11/2015",
+        "Units": 3468.977,
+        "NavRate": 13.0745,
+        "Net": 45355.14,
+        "Change": 64.87,
+        "PNReport": 1
+    },
+    {
+        "Date": "4/13/2015",
+        "Units": 3468.977,
+        "NavRate": 13.1311,
+        "Net": 45551.484,
+        "Change": 196.344,
+        "PNReport": 1
+    },
+    {
+        "Date": "4/15/2015",
+        "Units": 3468.977,
+        "NavRate": 13.1077,
+        "Net": 45470.31,
+        "Change": -81.174,
+        "PNReport": -1
+    },
+    {
+        "Date": "4/16/2015",
+        "Units": 3468.977,
+        "NavRate": 13.0734,
+        "Net": 45351.324,
+        "Change": -118.986,
+        "PNReport": -1
+    },
+    {
+        "Date": "4/18/2015",
+        "Units": 3468.977,
+        "NavRate": 13.0606,
+        "Net": 45306.921,
+        "Change": -44.403,
+        "PNReport": -1
+    },
+    {
+        "Date": "4/20/2015",
+        "Units": 3468.977,
+        "NavRate": 12.9462,
+        "Net": 44910.07,
+        "Change": -396.851,
+        "PNReport": -1
+    },
+    {
+        "Date": "4/21/2015",
+        "Units": 3468.977,
+        "NavRate": 12.9224,
+        "Net": 44827.508,
+        "Change": -82.562,
+        "PNReport": -1
+    },
+    {
+        "Date": "4/22/2015",
+        "Units": 3468.977,
+        "NavRate": 12.9615,
+        "Net": 44963.145,
+        "Change": 135.637,
+        "PNReport": 1
+    },
+    {
+        "Date": "4/23/2015",
+        "Units": 3468.977,
+        "NavRate": 12.9329,
+        "Net": 44863.933,
+        "Change": -99.213,
+        "PNReport": -1
+    },
+    {
+        "Date": "4/27/2015",
+        "Units": 3468.977,
+        "NavRate": 12.8156,
+        "Net": 44457.022,
+        "Change": -406.911,
+        "PNReport": -1
+    },
+    {
+        "Date": "4/28/2015",
+        "Units": 3468.977,
+        "NavRate": 12.8687,
+        "Net": 44641.224,
+        "Change": 184.203,
+        "PNReport": 1
+    },
+    {
+        "Date": "4/29/2015",
+        "Units": 3468.977,
+        "NavRate": 12.8244,
+        "Net": 44487.549,
+        "Change": -153.676,
+        "PNReport": -1
+    },
+    {
+        "Date": "4/30/2015",
+        "Units": 3468.977,
+        "NavRate": 12.7873,
+        "Net": 44358.85,
+        "Change": -128.699,
+        "PNReport": -1
+    },
+    {
+        "Date": "5/2/2015",
+        "Units": 3465.204,
+        "NavRate": 12.7896,
+        "Net": 44318.573,
+        "Change": -40.277,
+        "PNReport": -1
+    },
+    {
+        "Date": "5/5/2015",
+        "Units": 3465.204,
+        "NavRate": 12.8817,
+        "Net": 44637.718,
+        "Change": 319.145,
+        "PNReport": 1
+    },
+    {
+        "Date": "5/6/2015",
+        "Units": 3465.204,
+        "NavRate": 12.6988,
+        "Net": 44003.933,
+        "Change": -633.786,
+        "PNReport": -1
+    },
+    {
+        "Date": "5/7/2015",
+        "Units": 3465.204,
+        "NavRate": 12.6438,
+        "Net": 43813.346,
+        "Change": -190.586,
+        "PNReport": -1
+    },
+    {
+        "Date": "5/9/2015",
+        "Units": 3465.204,
+        "NavRate": 12.73,
+        "Net": 44112.047,
+        "Change": 298.701,
+        "PNReport": 1
+    },
+    {
+        "Date": "5/11/2015",
+        "Units": 3465.204,
+        "NavRate": 12.8352,
+        "Net": 44476.586,
+        "Change": 364.539,
+        "PNReport": 1
+    },
+    {
+        "Date": "5/12/2015",
+        "Units": 3465.204,
+        "NavRate": 12.6751,
+        "Net": 43921.807,
+        "Change": -554.779,
+        "PNReport": -1
+    },
+    {
+        "Date": "5/13/2015",
+        "Units": 3465.204,
+        "NavRate": 12.7709,
+        "Net": 44253.774,
+        "Change": 331.967,
+        "PNReport": 1
+    },
+    {
+        "Date": "5/14/2015",
+        "Units": 3465.204,
+        "NavRate": 12.7743,
+        "Net": 44265.555,
+        "Change": 11.782,
+        "PNReport": 1
+    },
+    {
+        "Date": "5/16/2015",
+        "Units": 3465.204,
+        "NavRate": 12.7926,
+        "Net": 44328.969,
+        "Change": 63.413,
+        "PNReport": 1
+    },
+    {
+        "Date": "5/18/2015",
+        "Units": 3465.204,
+        "NavRate": 12.8714,
+        "Net": 44602.027,
+        "Change": 273.058,
+        "PNReport": 1
+    },
+    {
+        "Date": "5/19/2015",
+        "Units": 3465.204,
+        "NavRate": 12.87,
+        "Net": 44597.175,
+        "Change": -4.851,
+        "PNReport": -1
+    },
+    {
+        "Date": "5/20/2015",
+        "Units": 3465.204,
+        "NavRate": 12.8969,
+        "Net": 44690.389,
+        "Change": 93.214,
+        "PNReport": 1
+    },
+    {
+        "Date": "5/21/2015",
+        "Units": 3465.204,
+        "NavRate": 12.8784,
+        "Net": 44626.283,
+        "Change": -64.106,
+        "PNReport": -1
+    },
+    {
+        "Date": "5/22/2015",
+        "Units": 3465.204,
+        "NavRate": 12.8952,
+        "Net": 44684.499,
+        "Change": 58.215,
+        "PNReport": 1
+    },
+    {
+        "Date": "5/23/2015",
+        "Units": 3465.204,
+        "NavRate": 12.8964,
+        "Net": 44688.657,
+        "Change": 4.158,
+        "PNReport": 1
+    },
+    {
+        "Date": "5/25/2015",
+        "Units": 3465.204,
+        "NavRate": 12.8286,
+        "Net": 44453.716,
+        "Change": -234.941,
+        "PNReport": -1
+    },
+    {
+        "Date": "5/26/2015",
+        "Units": 3465.204,
+        "NavRate": 12.8098,
+        "Net": 44388.57,
+        "Change": -65.146,
+        "PNReport": -1
+    },
+    {
+        "Date": "5/27/2015",
+        "Units": 3465.204,
+        "NavRate": 12.8454,
+        "Net": 44511.931,
+        "Change": 123.361,
+        "PNReport": 1
+    },
+    {
+        "Date": "5/28/2015",
+        "Units": 3465.204,
+        "NavRate": 12.8465,
+        "Net": 44515.743,
+        "Change": 3.812,
+        "PNReport": 1
+    },
+    {
+        "Date": "5/30/2015",
+        "Units": 3465.204,
+        "NavRate": 12.8965,
+        "Net": 44689.003,
+        "Change": 173.26,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/2/2015",
+        "Units": 3461.151,
+        "NavRate": 12.8073,
+        "Net": 44327.999,
+        "Change": -361.004,
+        "PNReport": -1
+    },
+    {
+        "Date": "6/3/2015",
+        "Units": 3461.151,
+        "NavRate": 12.7107,
+        "Net": 43993.652,
+        "Change": -334.347,
+        "PNReport": -1
+    },
+    {
+        "Date": "6/4/2015",
+        "Units": 3461.151,
+        "NavRate": 12.7036,
+        "Net": 43969.078,
+        "Change": -24.574,
+        "PNReport": -1
+    },
+    {
+        "Date": "6/5/2015",
+        "Units": 3461.151,
+        "NavRate": 12.7076,
+        "Net": 43982.922,
+        "Change": 13.845,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/6/2015",
+        "Units": 3461.151,
+        "NavRate": 12.7088,
+        "Net": 43987.076,
+        "Change": 4.153,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/8/2015",
+        "Units": 3461.151,
+        "NavRate": 12.6543,
+        "Net": 43798.443,
+        "Change": -188.633,
+        "PNReport": -1
+    },
+    {
+        "Date": "6/9/2015",
+        "Units": 3461.151,
+        "NavRate": 12.6497,
+        "Net": 43782.522,
+        "Change": -15.921,
+        "PNReport": -1
+    },
+    {
+        "Date": "6/10/2015",
+        "Units": 3461.151,
+        "NavRate": 12.7304,
+        "Net": 44061.837,
+        "Change": 279.315,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/11/2015",
+        "Units": 3461.151,
+        "NavRate": 12.6107,
+        "Net": 43647.537,
+        "Change": -414.3,
+        "PNReport": -1
+    },
+    {
+        "Date": "6/13/2015",
+        "Units": 3461.151,
+        "NavRate": 12.631,
+        "Net": 43717.798,
+        "Change": 70.261,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/15/2015",
+        "Units": 3461.151,
+        "NavRate": 12.6507,
+        "Net": 43785.983,
+        "Change": 68.185,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/16/2015",
+        "Units": 3461.151,
+        "NavRate": 12.6802,
+        "Net": 43888.087,
+        "Change": 102.104,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/17/2015",
+        "Units": 3461.151,
+        "NavRate": 12.7145,
+        "Net": 44006.804,
+        "Change": 118.717,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/18/2015",
+        "Units": 3461.151,
+        "NavRate": 12.7814,
+        "Net": 44238.355,
+        "Change": 231.551,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/19/2015",
+        "Units": 3461.151,
+        "NavRate": 12.8122,
+        "Net": 44344.959,
+        "Change": 106.603,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/22/2015",
+        "Units": 3461.151,
+        "NavRate": 12.9202,
+        "Net": 44718.763,
+        "Change": 373.804,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/23/2015",
+        "Units": 3461.151,
+        "NavRate": 12.9574,
+        "Net": 44847.518,
+        "Change": 128.755,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/25/2015",
+        "Units": 3461.151,
+        "NavRate": 12.9742,
+        "Net": 44905.665,
+        "Change": 58.147,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/26/2015",
+        "Units": 3461.151,
+        "NavRate": 12.9391,
+        "Net": 44784.179,
+        "Change": -121.486,
+        "PNReport": -1
+    },
+    {
+        "Date": "6/27/2015",
+        "Units": 3461.151,
+        "NavRate": 12.9404,
+        "Net": 44788.678,
+        "Change": 4.499,
+        "PNReport": 1
+    },
+    {
+        "Date": "6/29/2015",
+        "Units": 3461.151,
+        "NavRate": 12.9017,
+        "Net": 44654.732,
+        "Change": -133.947,
+        "PNReport": -1
+    },
+    {
+        "Date": "6/30/2015",
+        "Units": 3461.151,
+        "NavRate": 12.9369,
+        "Net": 44776.564,
+        "Change": 121.833,
+        "PNReport": 1
+    }
+]

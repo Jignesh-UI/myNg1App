@@ -1,0 +1,82 @@
+<!--<table class="table table-bordered">
+  <thead>
+    <tr>
+      <td>Equity</td>
+      <td>Sector</td>
+      <td>Quantity</td>
+      <td>Value in Cr</td>
+      <td>Investment in %</td>
+    </tr>
+    <tr>
+      <td><input type="text" data-ng-model="txtequity" class="form-control"></td>
+      <td><input type="text" data-ng-model="txtsector" class="form-control"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </thead>
+  <tbody ng-repeat="mfdata in JsonData">
+    <tr>
+      <td colspan="5">{{mfdata.MfType}}</td>
+    </tr>
+    <tr ng-repeat="jsonfiledata in mfdata.SectorsList | orderBy:'Sector' | filter:{Equity:txtequity} | filter:{Sector:txtsector}">
+      <td>{{jsonfiledata.Equity}} </td>
+      <td>{{jsonfiledata.Sector}}</td>
+      <td>{{jsonfiledata.Qty}}</td>
+      <td>{{jsonfiledata.ValueCR}}</td>
+      <td>{{jsonfiledata.percentage}}</td>
+    </tr>
+  </tbody>
+  <tfoot ng-repeat="mdata in lastSubmit">
+    <tr ng-repeat="jsonfiledata in mdata.SectorsList | orderBy:'Sector' | filter:{Equity:txtequity} | filter:{Sector:txtsector}" style="background-color:#CCC;">
+      <td>{{mdata.MfType}}</td>
+      <td>{{jsonfiledata.Sector}}</td>
+      <td>{{jsonfiledata.Qty}}</td>
+      <td>{{jsonfiledata.ValueCR}}</td>
+      <td>Total : {{getTotal(jsonfiledata)}} <br />
+        {{jsonfiledata.percentage}}</td>
+    </tr>
+  </tfoot>
+</table>-->
+
+<hr />
+<table class="table table-bordered" >
+  <thead>
+    <tr>
+      <td></td>
+      <td>Equity</td>
+      <td>Sector</td>
+      <td>Quantity</td>
+      <td>Value in Cr</td>
+      <td>Investment in %</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><input type="text" ng-model="txtequity" class="form-control"></td>
+      <td><input type="text" ng-model="txtsector" class="form-control"></td>
+      <td></td>
+      <td></td>
+      <td><input type="button" value="Filter" /></td>
+    </tr>
+  </thead>
+  <tbody ng-repeat="mfdata in JsonData">
+    <tr>
+      <td></td>
+      <td colspan="5">{{mfdata.MfType}}</td>
+    </tr>
+    <tr ng-repeat="jsonfiledata in mfdata.SectorsList | orderBy:'Sector' | filter:{Sector:txtsector}">
+      <td>{{$index+1}}</td>
+      <td>{{jsonfiledata.Equity}} </td>
+      <td>{{jsonfiledata.Sector}}</td>
+      <td>{{jsonfiledata.Qty}}</td>
+      <td>{{jsonfiledata.ValueCR}}</td>
+      <td>{{jsonfiledata.percentage}}</td>
+    </tr>
+    <tr>
+      <td>Average</td>
+      <td colspan="5">{{Average(mfdata)}}</td>
+    </tr>
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>

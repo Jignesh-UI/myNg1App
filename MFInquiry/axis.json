@@ -1,0 +1,229 @@
+[{
+	"Equity": "HDFC Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "4,478,516.00",
+	"ValueCR": 484.91,
+	"percentage": 7.75
+}, {
+	"Equity": "Kotak Mahindra",
+	"Sector": "Banking & Financial Services",
+	"Qty": "6,286,962.00",
+	"ValueCR": 451.75,
+	"percentage": 7.22
+}, {
+	"Equity": "Sun Pharma",
+	"Sector": "Pharmaceuticals",
+	"Qty": "4,769,285.00",
+	"ValueCR": 391.06,
+	"percentage": 6.25
+}, {
+	"Equity": "TCS",
+	"Sector": "Information Technology",
+	"Qty": "1,457,007.00",
+	"ValueCR": 355.39,
+	"percentage": 5.68
+}, {
+	"Equity": "HDFC",
+	"Sector": "Banking & Financial Services",
+	"Qty": "2,705,642.00",
+	"ValueCR": 341.63,
+	"percentage": 5.46
+}, {
+	"Equity": "Tech Mahindra",
+	"Sector": "Information Technology",
+	"Qty": "4,558,339.00",
+	"ValueCR": 237.76,
+	"percentage": 3.8
+}, {
+	"Equity": "Pidilite Ind",
+	"Sector": "Chemicals",
+	"Qty": "4,137,367.00",
+	"ValueCR": 229,
+	"percentage": 3.66
+}, {
+	"Equity": "TTK Prestige",
+	"Sector": "Consumer Durables",
+	"Qty": "477,729.00",
+	"ValueCR": 224.62,
+	"percentage": 3.59
+}, {
+	"Equity": "Maruti Suzuki",
+	"Sector": "Automotive",
+	"Qty": "460,930.00",
+	"ValueCR": 212.74,
+	"percentage": 3.4
+}, {
+	"Equity": "Motherson Sumi",
+	"Sector": "Automotive",
+	"Qty": "6,825,343.00",
+	"ValueCR": 200.22,
+	"percentage": 3.2
+}, {
+	"Equity": "PI Industries",
+	"Sector": "Chemicals",
+	"Qty": "3,032,245.00",
+	"ValueCR": 195.22,
+	"percentage": 3.12
+}, {
+	"Equity": "Cummins",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "1,759,854.00",
+	"ValueCR": 180.83,
+	"percentage": 2.89
+}, {
+	"Equity": "Bajaj Finance",
+	"Sector": "Banking & Financial Services",
+	"Qty": "269,497.00",
+	"ValueCR": 162.05,
+	"percentage": 2.59
+}, {
+	"Equity": "Nestle",
+	"Sector": "Food & Beverages",
+	"Qty": "277,173.00",
+	"ValueCR": 161.43,
+	"percentage": 2.58
+}, {
+	"Equity": "Eicher Motors",
+	"Sector": "Automotive",
+	"Qty": "93,175.00",
+	"ValueCR": 157.05,
+	"percentage": 2.51
+}, {
+	"Equity": "Sundaram Fin",
+	"Sector": "Banking & Financial Services",
+	"Qty": "1,065,201.00",
+	"ValueCR": 146.41,
+	"percentage": 2.34
+}, {
+	"Equity": "Bata India",
+	"Sector": "Consumer Non-durables",
+	"Qty": "2,736,052.00",
+	"ValueCR": 142.66,
+	"percentage": 2.28
+}, {
+	"Equity": "GRUH Finance",
+	"Sector": "Banking & Financial Services",
+	"Qty": "5,177,983.00",
+	"ValueCR": 142.03,
+	"percentage": 2.27
+}, {
+	"Equity": "Symphony",
+	"Sector": "Consumer Durables",
+	"Qty": "605,977.00",
+	"ValueCR": 139.53,
+	"percentage": 2.23
+}, {
+	"Equity": "Divis Labs",
+	"Sector": "Pharmaceuticals",
+	"Qty": "1,180,704.00",
+	"ValueCR": 136.4,
+	"percentage": 2.18
+}, {
+	"Equity": "MCX India",
+	"Sector": "Miscellaneous",
+	"Qty": "1,439,615.00",
+	"ValueCR": 133.27,
+	"percentage": 2.13
+}, {
+	"Equity": "Torrent Power",
+	"Sector": "Utilities",
+	"Qty": "7,337,808.00",
+	"ValueCR": 127.64,
+	"percentage": 2.04
+}, {
+	"Equity": "Larsen",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "971,168.00",
+	"ValueCR": 123.89,
+	"percentage": 1.98
+}, {
+	"Equity": "Bosch",
+	"Sector": "Automotive",
+	"Qty": "60,988.00",
+	"ValueCR": 113.88,
+	"percentage": 1.82
+}, {
+	"Equity": "WABCO India",
+	"Sector": "Automotive",
+	"Qty": "174,965.00",
+	"ValueCR": 106.37,
+	"percentage": 1.7
+}, {
+	"Equity": "Ipca Labs",
+	"Sector": "Pharmaceuticals",
+	"Qty": "1,431,115.00",
+	"ValueCR": 106.37,
+	"percentage": 1.7
+}, {
+	"Equity": "Info Edge",
+	"Sector": "Miscellaneous",
+	"Qty": "1,229,142.00",
+	"ValueCR": 105.12,
+	"percentage": 1.68
+}, {
+	"Equity": "Coffee Day",
+	"Sector": "Food & Beverages",
+	"Qty": "3,566,576.00",
+	"ValueCR": 101.36,
+	"percentage": 1.62
+}, {
+	"Equity": "Blue Dart",
+	"Sector": "Services",
+	"Qty": "148,628.00",
+	"ValueCR": 100.74,
+	"percentage": 1.61
+}, {
+	"Equity": "Astra Microwave",
+	"Sector": "Telecommunication",
+	"Qty": "5,417,050.00",
+	"ValueCR": 74.46,
+	"percentage": 1.19
+}, {
+	"Equity": "Cadila Health",
+	"Sector": "Pharmaceuticals",
+	"Qty": "2,042,375.00",
+	"ValueCR": 66.95,
+	"percentage": 1.07
+}, {
+	"Equity": "Astral Poly Tec",
+	"Sector": "Manufacturing",
+	"Qty": "1,398,194.00",
+	"ValueCR": 61.32,
+	"percentage": 0.98
+}, {
+	"Equity": "Siemens",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "510,641.00",
+	"ValueCR": 61.32,
+	"percentage": 0.98
+}, {
+	"Equity": "Page Industries",
+	"Sector": "Manufacturing",
+	"Qty": "36,578.00",
+	"ValueCR": 48.8,
+	"percentage": 0.78
+}, {
+	"Equity": "TTK Healthcare",
+	"Sector": "Pharmaceuticals",
+	"Qty": "295,277.00",
+	"ValueCR": 31.28,
+	"percentage": 0.5
+}, {
+	"Equity": "Speciality Rest",
+	"Sector": "Services",
+	"Qty": "179,797.00",
+	"ValueCR": 2.5,
+	"percentage": 0.04
+}, {
+	"Equity": "9.30% Blue Dart Express Ltd (20/11/2017)",
+	"Sector": "-",
+	"Qty": "[ICRA] AA",
+	"ValueCR": 0.63,
+	"percentage": 0.01
+}, {
+	"Equity": "Clearing Corporation of India Ltd",
+	"Sector": "-",
+	"Qty": "-",
+	"ValueCR": 213.99,
+	"percentage": 3.17
+}]

@@ -1,0 +1,301 @@
+[{
+	"Equity": "Sundaram-Clayto",
+	"Sector": "Automotive",
+	"Qty": "85,869.00",
+	"ValueCR": 18.01,
+	"percentage": 6.51
+}, {
+	"Equity": "Honeywell Autom",
+	"Sector": "Telecommunication",
+	"Qty": "16,837.00",
+	"ValueCR": 15.38,
+	"percentage": 5.56
+}, {
+	"Equity": "ICRA",
+	"Sector": "Miscellaneous",
+	"Qty": "29,523.00",
+	"ValueCR": 13,
+	"percentage": 4.7
+}, {
+	"Equity": "Bayer CropScien",
+	"Sector": "Chemicals",
+	"Qty": "34,914.00",
+	"ValueCR": 12.09,
+	"percentage": 4.37
+}, {
+	"Equity": "Kotak Mahindra",
+	"Sector": "Banking & Financial Services",
+	"Qty": "166,295.00",
+	"ValueCR": 11.95,
+	"percentage": 4.32
+}, {
+	"Equity": "MRF",
+	"Sector": "Automotive",
+	"Qty": "2,409.00",
+	"ValueCR": 9.6,
+	"percentage": 3.47
+}, {
+	"Equity": "Jet Airways",
+	"Sector": "Services",
+	"Qty": "135,455.00",
+	"ValueCR": 9.52,
+	"percentage": 3.44
+}, {
+	"Equity": "Zee Entertain",
+	"Sector": "Media & Entertainment",
+	"Qty": "210,116.00",
+	"ValueCR": 9.18,
+	"percentage": 3.32
+}, {
+	"Equity": "Pfizer",
+	"Sector": "Pharmaceuticals",
+	"Qty": "36,304.00",
+	"ValueCR": 8.55,
+	"percentage": 3.09
+}, {
+	"Equity": "Reliance",
+	"Sector": "Oil & Gas",
+	"Qty": "79,216.00",
+	"ValueCR": 8.02,
+	"percentage": 2.9
+}, {
+	"Equity": "Shoppers Stop",
+	"Sector": "Retail & Real Estate",
+	"Qty": "195,756.00",
+	"ValueCR": 7.88,
+	"percentage": 2.85
+}, {
+	"Equity": "Thomas Cook",
+	"Sector": "Miscellaneous",
+	"Qty": "378,140.00",
+	"ValueCR": 7.69,
+	"percentage": 2.78
+}, {
+	"Equity": "HDFC",
+	"Sector": "Banking & Financial Services",
+	"Qty": "56,080.00",
+	"ValueCR": 7.08,
+	"percentage": 2.56
+}, {
+	"Equity": "TCS",
+	"Sector": "Information Technology",
+	"Qty": "28,916.00",
+	"ValueCR": 7.05,
+	"percentage": 2.55
+}, {
+	"Equity": "IndusInd Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "69,382.00",
+	"ValueCR": 6.72,
+	"percentage": 2.43
+}, {
+	"Equity": "ICICI Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "252,849.00",
+	"ValueCR": 6.61,
+	"percentage": 2.39
+}, {
+	"Equity": "HDFC Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "56,968.00",
+	"ValueCR": 6.17,
+	"percentage": 2.23
+}, {
+	"Equity": "Bosch",
+	"Sector": "Automotive",
+	"Qty": "3,244.00",
+	"ValueCR": 6.06,
+	"percentage": 2.19
+}, {
+	"Equity": "Biocon",
+	"Sector": "Pharmaceuticals",
+	"Qty": "113,726.00",
+	"ValueCR": 5.89,
+	"percentage": 2.13
+}, {
+	"Equity": "Cummins",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "56,531.00",
+	"ValueCR": 5.81,
+	"percentage": 2.1
+}, {
+	"Equity": "Larsen",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "42,716.00",
+	"ValueCR": 5.45,
+	"percentage": 1.97
+}, {
+	"Equity": "Grasim",
+	"Sector": "Conglomerates",
+	"Qty": "13,803.00",
+	"ValueCR": 5.17,
+	"percentage": 1.87
+}, {
+	"Equity": "Hitachi Home",
+	"Sector": "Consumer Durables",
+	"Qty": "37,870.00",
+	"ValueCR": 5.17,
+	"percentage": 1.87
+}, {
+	"Equity": "Shree Cements",
+	"Sector": "Cement & Construction",
+	"Qty": "4,484.00",
+	"ValueCR": 5.14,
+	"percentage": 1.86
+}, {
+	"Equity": "Axis Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "107,686.00",
+	"ValueCR": 4.84,
+	"percentage": 1.75
+}, {
+	"Equity": "Gillette India",
+	"Sector": "Consumer Non-durables",
+	"Qty": "9,491.00",
+	"ValueCR": 4.43,
+	"percentage": 1.6
+}, {
+	"Equity": "Yes Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "59,803.00",
+	"ValueCR": 4.34,
+	"percentage": 1.57
+}, {
+	"Equity": "GlaxoSmithKline",
+	"Sector": "Pharmaceuticals",
+	"Qty": "13,076.00",
+	"ValueCR": 4.34,
+	"percentage": 1.57
+}, {
+	"Equity": "Maruti Suzuki",
+	"Sector": "Automotive",
+	"Qty": "9,229.00",
+	"ValueCR": 4.26,
+	"percentage": 1.54
+}, {
+	"Equity": "Sun Pharma",
+	"Sector": "Pharmaceuticals",
+	"Qty": "49,251.00",
+	"ValueCR": 4.04,
+	"percentage": 1.46
+}, {
+	"Equity": "Tata Motors",
+	"Sector": "Automotive",
+	"Qty": "102,510.00",
+	"ValueCR": 4.01,
+	"percentage": 1.45
+}, {
+	"Equity": "HCL Tech",
+	"Sector": "Information Technology",
+	"Qty": "43,327.00",
+	"ValueCR": 3.71,
+	"percentage": 1.34
+}, {
+	"Equity": "Infosys",
+	"Sector": "Information Technology",
+	"Qty": "33,306.00",
+	"ValueCR": 3.68,
+	"percentage": 1.33
+}, {
+	"Equity": "HUL",
+	"Sector": "Consumer Non-durables",
+	"Qty": "38,811.00",
+	"ValueCR": 3.35,
+	"percentage": 1.21
+}, {
+	"Equity": "Century",
+	"Sector": "Conglomerates",
+	"Qty": "48,153.00",
+	"ValueCR": 2.88,
+	"percentage": 1.04
+}, {
+	"Equity": "Capital First",
+	"Sector": "Banking & Financial Services",
+	"Qty": "67,357.00",
+	"ValueCR": 2.77,
+	"percentage": 1
+}, {
+	"Equity": "Tech Mahindra",
+	"Sector": "Information Technology",
+	"Qty": "49,317.00",
+	"ValueCR": 2.57,
+	"percentage": 0.93
+}, {
+	"Equity": "ITC",
+	"Sector": "Tobacco",
+	"Qty": "59,947.00",
+	"ValueCR": 1.96,
+	"percentage": 0.71
+}, {
+	"Equity": "Ashok Leyland",
+	"Sector": "Automotive",
+	"Qty": "160,302.00",
+	"ValueCR": 1.41,
+	"percentage": 0.51
+}, {
+	"Equity": "M&M",
+	"Sector": "Automotive",
+	"Qty": "10,441.00",
+	"ValueCR": 1.33,
+	"percentage": 0.48
+}, {
+	"Equity": "Colgate",
+	"Sector": "Consumer Non-durables",
+	"Qty": "11,117.00",
+	"ValueCR": 1.08,
+	"percentage": 0.39
+}, {
+	"Equity": "SKS Microfin",
+	"Sector": "Banking & Financial Services",
+	"Qty": "21,066.00",
+	"ValueCR": 1.05,
+	"percentage": 0.38
+}, {
+	"Equity": "Container Corp",
+	"Sector": "Services",
+	"Qty": "7,584.00",
+	"ValueCR": 1,
+	"percentage": 0.36
+}, {
+	"Equity": "IDFC Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "149,759.00",
+	"ValueCR": 0.91,
+	"percentage": 0.33
+}, {
+	"Equity": "IDFC",
+	"Sector": "Banking & Financial Services",
+	"Qty": "149,049.00",
+	"ValueCR": 0.72,
+	"percentage": 0.26
+}, {
+	"Equity": "Vedanta",
+	"Sector": "Metals & Mining",
+	"Qty": "67,389.00",
+	"ValueCR": 0.61,
+	"percentage": 0.22
+}, {
+	"Equity": "Kansai Nerolac",
+	"Sector": "Chemicals",
+	"Qty": "21,541.00",
+	"ValueCR": 0.58,
+	"percentage": 0.21
+}, {
+	"Equity": "UB Holdings",
+	"Sector": "Services",
+	"Qty": "171,093.00",
+	"ValueCR": 0.5,
+	"percentage": 0.18
+}, {
+	"Equity": "Bharat Bijlee",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "5,161.00",
+	"ValueCR": 0.44,
+	"percentage": 0.16
+}, {
+	"Equity": "Cash & Current Assets",
+	"Sector": "-",
+	"Qty": "-",
+	"ValueCR": 13.28,
+	"percentage": 4.8
+}]

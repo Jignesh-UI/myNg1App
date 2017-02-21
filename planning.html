@@ -1,0 +1,67 @@
+<form ng-submit="calculate()">
+  <div class="col-lg-12 col-md-10" ng-class="{'col-lg-6':fullcontrol}">
+    <table class="table table-bordered">
+      <tbody>
+        <tr>
+          <th>Name</th>
+          <td colspan="5"><input type="text" name="txtName" id="txtName" class="form-control" ng-model="Name"></td>
+        </tr>
+        <tr>
+          <th>Rate</th>
+          <td><input type="number" name="txtRate" id="txtRate" class="form-control" ng-model="Rate"></td>
+          <th>Quantity</th>
+          <td><input type="number" name="txtQuantity" id="txtQuantity" class="form-control" ng-model="Quantity"></td>
+        </tr>
+        <tr>
+          <th>Price</th>
+          <td colspan="5">{{Price}}</td>
+        </tr>
+        <tr>
+          <th>Brokerage %</th>
+          <td><input type="text" name="txtBasicBrock" value="0.55" id="txtBasicBrock" class="form-control" ng-model="BasicBrock" disabled readonly></td>
+          <th>Brokerage</th>
+          <td colspan="3">{{Brokerage | number:2}}</td>
+        </tr>
+        <tr>
+          <th>Tax %</th>
+          <td><input type="text" name="txtTaxRate" id="txtTaxRate" class="form-control" ng-model="TaxRate" disabled readonly></td>
+          <th>Tax</th>
+          <td colspan="3">{{ServiceTax | number:2}}</td>
+        </tr>
+        <tr>
+          <th>Deduction</th>
+          <td>{{NetBrokerage | number:2}}</td>
+          <th>Invested</th>
+          <td colspan="3">{{NetAmount | number:2}}</td>
+        </tr>
+        <tr>
+          <td colspan="10"><input type="submit" value="Submit" class="btn btn-default"></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="col-lg-6" ng-class="{'col-md-12':fullcontrol}" ng-show="fullcontrol">
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Saling Ratio %</th>
+          <th>Different Amount</th>
+          <th>Sold Amount</th>
+          <th>Deduction</th>
+          <th>Net Amount</th>
+          <th>Profit</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="ratio in salingratio" >
+          <th>{{ratio.Diff}}</th>
+          <td>{{ratio.DiffAmt}}</td>
+          <td>{{ratio.Amt | number:2}}</td>
+          <td>{{ratio.Brock | number:2}}</td>
+          <td>{{ratio.Sell | number:2}}</td>
+          <th>{{ratio.Earned | number:2}}</th>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</form>

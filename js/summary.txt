@@ -1,0 +1,252 @@
+[
+    {
+        "InvestmentType": "PPF",
+        "FullSummary": [
+            {
+                "Year": 2012,
+                "IntrestRate": 8.8,
+                "IntrestCredit": 917,
+                "Summary": [
+                    {
+                        "Installment": 3000,
+                        "Date": "05/05/12",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment": 1000,
+                        "Date": "7/21/2012",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment": 6000,
+                        "Date": "11/26/2012",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment": 10000,
+                        "Date": "12/1/2012",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment": 20000,
+                        "Date": "12/15/2012",
+                        "Interest": 0,
+                        "Earnings": 0
+                    }
+                ]
+            },
+            {
+                "Year": 2013,
+                "IntrestRate": 8.7,
+                "IntrestCredit": 5372,
+                "Summary": [
+                    {
+                        "Installment": 5000,
+                        "Date": "05/08/13",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment": 50000,
+                        "Date": "12/2/2013",
+                        "Interest": 0,
+                        "Earnings": 0
+                    }
+                ]
+            },
+            {
+                "Year": 2014,
+                "IntrestRate": 8.1,
+                "IntrestCredit": 11531,
+                "Summary": [
+                    {
+                        "Installment": 5000,
+                        "Date": "05/04/14",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment": 5000,
+                        "Date": "6/2/2014",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment": 30000,
+                        "Date": "8/26/2014",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment": 5000,
+                        "Date": "11/13/2014",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment": 5000,
+                        "Date": "11/17/2014",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment": 5000,
+                        "Date": "12/1/2014",
+                        "Interest": 0,
+                        "Earnings": 0
+                    }
+                ]
+            },
+            {
+                "Year": 2015,
+                "IntrestRate": 8.1,
+                "IntrestCredit": 16664,
+                "Summary": [
+                    {
+                        "Installment": 5000,
+                        "Date": "02/05/15",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment": 5000,
+                        "Date": "6/1/2015",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment":2180,
+                        "Date": "7/4/2015",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment":20000,
+                        "Date": "12/1/2015",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment":20000,
+                        "Date": "12/2/2015",
+                        "Interest": 0,
+                        "Earnings": 0
+                    }
+                ]
+            },
+            {
+                "Year": 2016,
+                "IntrestRate": 8.00,
+                "IntrestCredit": 0,
+                "Summary": [
+                    {
+                        "Installment": 5000,
+                        "Date": "31/05/16",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment": 5000,
+                        "Date": "02/9/2016",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment":10000,
+                        "Date": "5/10/2016",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment":20000,
+                        "Date": "02/2/2016",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment":25000,
+                        "Date": "03/12/2016",
+                        "Interest": 0,
+                        "Earnings": 0
+                    },
+                    {
+                        "Installment":5000,
+                        "Date": "05/12/2016",
+                        "Interest": 0,
+                        "Earnings": 0
+                    }
+                ]
+            }
+        ]
+    },
+	{
+        "InvestmentType": "NSC",
+        "FullSummary": [
+            {
+                "Year": 2013,
+                "IntrestRate": 30.324,
+                "Summary": [
+                    {
+                        "Installment": 5000,
+                        "Date": "30/11/13",
+                        "Interest": 2581,
+                        "Earnings": 7581
+                    },
+                    {
+                        "Installment": 5000,
+                        "Date": "30/11/2012",
+                        "Interest": 2581,
+                        "Earnings": 7581
+                    },{
+                        "Installment": 5000,
+                        "Date": "06/09/14",
+                        "Interest": 2581,
+                        "Earnings": 7581
+                    },
+                    {
+                        "Installment": 5000,
+                        "Date": "6/12/2014",
+                        "Interest": 2581,
+                        "Earnings": 7581
+                    },
+                    {
+                        "Installment": 5000,
+                        "Date": "6/12/2014",
+                        "Interest": 2581,
+                        "Earnings": 7581
+                    },
+                    {
+                        "Installment": 5000,
+                        "Date": "08/12/2014",
+                        "Interest": 2581,
+                        "Earnings": 7581
+                    },{
+                        "Installment": 10000,
+                        "Date": "12/09/2015",
+                        "Interest": 5162,
+                        "Earnings": 15162
+                    },{
+                        "Installment": 5000,
+                        "Date": "11/23/2015",
+                        "Interest": 2581,
+                        "Earnings": 7581
+                    },{
+                        "Installment": 5000,
+                        "Date": "23/11/2015",
+                        "Interest": 2581,
+                        "Earnings": 7581
+                    },{
+                        "Installment": 10000,
+                        "Date": "26/11/2015",
+                        "Interest": 5162,
+                        "Earnings": 15162
+                    }
+                ]
+            }
+        ]
+    }
+]

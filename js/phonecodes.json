@@ -1,0 +1,170 @@
+[
+    {
+        "Code": "*#0000#",
+        "Description": "Software Version"
+    },
+    {
+        "Code": "*#06#",
+        "Description": "IMEI (International Mobile Equipment Identity)"
+    },
+    {
+        "Code": "*#war0anty#",
+        "Description": "Sim lock Information"
+    },
+    {
+        "Code": "*3370#",
+        "Description": "Enhanced Full Rate ON"
+    },
+    {
+        "Code": "#3370#",
+        "Description": "OFF"
+    },
+    {
+        "Code": "*4720#",
+        "Description": "alternative sound quality codec ON"
+    },
+    {
+        "Code": "#4720#",
+        "Description": "alternative sound quality codec Off"
+    },
+    {
+        "Code": "*#7780#",
+        "Description": "default factory settings"
+    },
+    {
+        "Code": "*#7760#",
+        "Description": "production serial no."
+    },
+    {
+        "Code": "*#2820#",
+        "Description": "Blue tooth device address. "
+    },
+    {
+        "Code": "*#73#",
+        "Description": "Reset phone timers and game scores."
+    },
+    {
+        "Code": "*#7370925538#",
+        "Description": "Delete all the content of the wallet and the wallet code."
+    },
+    {
+        "Code": "*#746025625#",
+        "Description": "Sim clock allowed status."
+    },
+    {
+        "Code": "*#7370#",
+        "Description": "Soft format — erases all telephone memory."
+    },
+    {
+        "Code": "*#delset#",
+        "Description": "MMS/GPRS settings removal"
+    },
+    {
+        "Code": "*#67705646#",
+        "Description": "This will clear the LCD display (operator logo)."
+    },
+    {
+        "Code": "*#62209526#",
+        "Description": "Display the MAC address of the WLAN adapter. This is available only in the newer devices that supports WLAN like N80"
+    },
+    {
+        "Code": "#pw+1234567890+1#",
+        "Description": "Shows if Sim have restrictions."
+    },
+    {
+        "Code": "*#92702689#",
+        "Description": "takes you to a secret menu where you may find some of the information below:<br/>1. Displays Serial Number.<br/>2. Displays the Month and Year of Manufacture<br/>3. Displays (if there) the date where the phone was purchased (MMYY)<br/>4. Displays the date of the last repair - if found (0000)<br/>5. Shows life timer of phone (time passes since last start)"
+    },
+    {
+        "Code": "*#3925538#",
+        "Description": "Delete the contents and code of wallet."
+    },
+    {
+        "Code": "*#7328748263373738#",
+        "Description": "Resets security code. (Default security code is 12345)"
+    },
+    {
+        "Code": "*#4720#",
+        "Description": "Half Rate Codec activation."
+    },
+    {
+        "Code": "*#4720*",
+        "Description": "Half Rate Codec deactivation. The phone will automatically restart"
+    },
+    {
+        "Code": "*#*#4636#*#*",
+        "Description": "Phone Information, Usage and Battery"
+    },
+    {
+        "Code": "*#0*#",
+        "Description": "Enter Service Menu on Newer Phones"
+    },
+    {
+        "Code": "112",
+        "Description": "Emergency Number in world"
+    },
+    {
+        "Code": "*3370#",
+        "Description": "Use it in Low Battery"
+    },
+    {
+        "Code": "*#*#34971539#*#*",
+        "Description": "Detailed Camera Information"
+    },
+    {
+        "Code": "*#*#273282*255*663282*#*#*",
+        "Description": "Backup All Media Files"
+    },
+    {
+        "Code": "*#*#232339#*#*",
+        "Description": "Wireless LAN Test"
+    },
+    {
+        "Code": "*#*#197328640#*#*",
+        "Description": "Enable Test Mode for Service"
+    },
+    {
+        "Code": "*#*#0842#*#*",
+        "Description": "Back-light Test"
+    },
+    {
+        "Code": "*#*#2664#*#*",
+        "Description": "Test the Touchscreen"
+    },
+    {
+        "Code": "*#*#0842#*#*",
+        "Description": "Vibration Test"
+    },
+    {
+        "Code": "*#*#1111#*#*",
+        "Description": "FTA Software Version"
+    },
+    {
+        "Code": "*#12580*369#",
+        "Description": "Complete Software and Hardware Info"
+    },
+    {
+        "Code": "*#9090#",
+        "Description": "Diagnostic Configuration"
+    },
+    {
+        "Code": "*#872564#",
+        "Description": "USB Logging Control"
+    },
+    {
+        "Code": "*#9900#",
+        "Description": "System Dump Mode"
+    },
+    {
+        "Code": "*#301279#",
+        "Description": "HSDPA/HSUPA Control Menu"
+    },
+    {
+        "Code": "*#7465625#",
+        "Description": "View Phone Lock Status"
+    },
+    {
+        "Code": "*#*#7780#*#*",
+        "Description": "Reset the Data Partition to Factory State"
+    }
+]

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="MyApp">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Personal : Investments</title>
+<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap-theme.min.css">
+<link rel="stylesheet" type="text/css" href="css/custome.css">
+<script type="text/javascript" src="js/angular.js"></script>
+<script type="text/javascript" src="js/sanitize.js"></script>
+<script type="text/javascript" src="js/route.js"></script>
+<script type="text/javascript" src="js/myjs.js"></script>
+<script type="text/javascript">
+var pd=[];
+myapp.controller("pcalc",function($scope){
+var da=new Date();
+	$scope.getTimes=function(n){
+		$scope.fdate = da.getMonth()+1;
+		return new Array(n);
+	};
+});
+</script>
+</head>
+<body>
+<div ng-controller="pcalc">
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th colspan="7">Purchase Rate</th>
+    </tr>
+    <tr>
+      <th>Date</th>
+      <th>Folio</th>
+      <th>Units</th>
+      <th>Rs.</th>
+      <th>Invested Value</th>
+      <th>Charges</th>
+      <th>Net</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="i in getTimes(20) track by $index">
+      <td>{{fdate}}</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="MyApp">
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Mutual Fund Review</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <script src="js/jquery-1.9.1.js"></script>
+  <script src="js/angular.js"></script>
+  <script type="text/javascript">
+  var app = angular.module("MyApp", []);
+    app.controller("MyController",function($scope,$http,$filter){
+	    $scope.JsonData = [];
+    	$scope.lastSubmit = [];
+			
+        $http.get('axis.json').success(function(data,status,headers,config){
+            $scope.JsonData = data;
+            $scope.lastSubmit = data;
+			$scope.Math = window.Math;
+			$scope.average=0;
+			$scope.totalInvestment=0;			
+			$scope.applyFilter=function(){
+				$scope.JsonData=$filter("filter")(data,{
+					"Sector":$scope.txtsector
+				});
+				$scope.Average($scope.JsonData);
+			};
+			$scope.Average=function(data){
+				$scope.t=0;
+				for(var i = 0; i<data.length;i++){
+					$scope.t=$scope.t + data[i].percentage;
+				}
+				return $scope.t;
+			};
+        }).error(function(data,status,headers,config){
+            alert(data);
+        });
+    });
+	app.directive("loadDetails",function(){
+		return{
+			templateUrl:"format.html",
+			restrict:"E"
+		};
+	});
+	app.directive("allloadDetails",function(){
+		return{
+			templateUrl:"allformat.html",
+			restrict:"E",
+			controller:"MyController"
+		};
+	});
+  </script>
+  </head>
+  <body>
+  <div class="container" ng-controller="MyController">
+    <div class="col-md-12">
+      <h1>Read jSon File</h1>
+    </div>
+    <div class="col-md-12">
+      <load-details></load-details>
+      <!--<allload-details></allload-details>-->
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,366 @@
+[
+    {
+        "Website": "Stylebycyn",
+        "URL": "http://www.stylebycyn.com",
+        "Technologies": "Static / PHP",
+        "Projecttype": "Static Website",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "AIDS Arms",
+        "URL": "http://cherchezlavie.com/",
+        "Technologies": "Static / HTML,CSS",
+        "Projecttype": "Static Website",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "Atomic Blocks",
+        "URL": "http://www.texrahdesigns.com/",
+        "Technologies": "Static / PHP",
+        "Projecttype": "Static Website",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "Felder Property Group",
+        "URL": "http://f-p-g.com/",
+        "Technologies": "PHP / MySql",
+        "Projecttype": "CMS (Custom)",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "Kabellion",
+        "URL": "http://kabellion.com/",
+        "Technologies": "PHP / MySql",
+        "Projecttype": "CMS (Custom)",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "Stone Tech",
+        "URL": "http://stonetechusa.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "CMS (Custom)",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "Volunteers",
+        "URL": "http://www.volunteersintheworld.com",
+        "Technologies": "Static / PHP",
+        "Projecttype": "Static Website",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "ethofy",
+        "URL": "http://www.ethofy.com/",
+        "Technologies": "ASP.NET/MSSQL",
+        "Projecttype": "CMS (OpenSource), MOJO Portal",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "Sammy Todd Dyess",
+        "URL": "http://www.samdyess.com/",
+        "Technologies": "iPhone App",
+        "Projecttype": "iPhone App (Design)",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "Silverback Advertising",
+        "URL": "www.silverbackadvertising.com/blog",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Expression Engine",
+        "Role": "Jquery Creation, HTML Slicing"
+    },
+    {
+        "Website": "BlueFoot",
+        "URL": "www.bluefootindustrial.com",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "casakimball",
+        "URL": "http://www.casakimball.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Ox Bonding",
+        "URL": "http://www.oxbonding.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Casa Kimball (WP)",
+        "URL": "http://www.casakimball.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "Gallery Module"
+    },
+    {
+        "Website": "Mark Pucci & Co",
+        "URL": "http://markpuccihomes.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Square One Canvas",
+        "URL": "http://www.squareonecanvas.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Shopping Cart (Custom)",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Flatirons",
+        "URL": "http://www.flatironspm.com/",
+        "Technologies": "HTML/CSS",
+        "Projecttype": "Static Website",
+        "Role": "Jquery Creation, HTML Slicing"
+    },
+    {
+        "Website": "ION",
+        "URL": "http://www.ion-solar.com/",
+        "Technologies": "HTML/CSS",
+        "Projecttype": "Static Website",
+        "Role": "Slicing From PDF And Content Paste"
+    },
+    {
+        "Website": "Lawyer Advice",
+        "URL": "http://www.lawyeradvicenow.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "CMS (Custom)",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "mustbestupid",
+        "URL": "http://www.mustbestupid.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "Kew Riverside",
+        "URL": "http://kewriversidepark.org/",
+        "Technologies": "ASP.NET/MSSQL",
+        "Projecttype": "CMS (Custom)",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Skincare Organics Ltd",
+        "URL": "http://www.skincareorganics.co.uk/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Zen Cart",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Build Your Own Blanket",
+        "URL": "http://www.buildyourownblanket.com/",
+        "Technologies": "ASP.NET/MSSQL",
+        "Projecttype": "Shopping Cart (Custom)",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Best Practices PMP Training",
+        "URL": "www.bestpractices-pmptraining.com",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "AJI Sports",
+        "URL": "http://www.ajisports.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Eterna",
+        "URL": "http://www.eternalaser.com/",
+        "Technologies": "HTML/CSS",
+        "Projecttype": "Static Website",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "White Pine Golf DOME",
+        "URL": "http://whitepinesgolfdome.com/",
+        "Technologies": "HTML/CSS",
+        "Projecttype": "Static Website",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "FrogHollowEstate",
+        "URL": "www.froghollowestate.com.au/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "CMS (Custom)",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "Redback Consulting",
+        "URL": "http://www.redbackconsulting.com.au/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Chiguna",
+        "URL": "http://chiguna.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Open Cart",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "SquareScan",
+        "URL": "http://www.squarescan.com/",
+        "Technologies": "ASP.NET/MSSQL",
+        "Projecttype": "Web Application",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Vertigo",
+        "URL": "http://www.vertigogroupusa.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "CMS (OpenSource)",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Kew Park Montessori",
+        "URL": "http://www.kewparkmontessori.com/",
+        "Technologies": "HTML/CSS",
+        "Projecttype": "Static Website",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Universal Financial Consultants",
+        "URL": "http://www.ufc.bz/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Joomla",
+        "Role": "Banner Creation, Jquery Implement"
+    },
+    {
+        "Website": "SHS",
+        "URL": "http://www.maptomastery.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Quick Project",
+        "Role": "Design Changes and Updates"
+    },
+    {
+        "Website": "Cates INC",
+        "URL": "http://catesinc.com/",
+        "Technologies": "HTML/CSS",
+        "Projecttype": "Quick Project",
+        "Role": "Changes Given By Client"
+    },
+    {
+        "Website": "LockBoxSwap",
+        "URL": "http://www.lockboxswap.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Shopping Cart (OpenSource)",
+        "Role": "Jquery Creation, HTML Slicing"
+    },
+    {
+        "Website": "Natural Disaster",
+        "URL": "http://www.devastationplanet.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Web Application",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    },
+    {
+        "Website": "ataia",
+        "URL": "http://www.ataia-yoga.ch/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "HTML, CSS Changes"
+    },
+    {
+        "Website": "Progy's Production",
+        "URL": "http://www.porgysproductions.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "HTML, CSS Changes"
+    },
+    {
+        "Website": "DocRun",
+        "URL": "http://www.docrun.com/",
+        "Technologies": "HTML/CSS",
+        "Projecttype": "Quick Project",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Chicago Circuts Corporation",
+        "URL": "http://www.chicagocircuits.com/",
+        "Technologies": "ASP.NET/MSSQL",
+        "Projecttype": "Web Application",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "MB2",
+        "URL": "http://www.mb2raceway.com/",
+        "Technologies": "ASP.NET/MSSQL",
+        "Projecttype": "Web Application",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Lafoda",
+        "URL": "http://www.labofa.com/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "BINNY WEAR",
+        "URL": "http://binnywear.com/",
+        "Technologies": "HTML/CSS",
+        "Projecttype": "Static Website",
+        "Role": "Jquery Creation, HTML Slicing, Application For IPhone"
+    },
+    {
+        "Website": "All Zimbabwean",
+        "URL": "www.zimfreeads.com",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Joomla",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Frisorsalong Studio",
+        "URL": "http://frisorstudio9.se/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Wordpress",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Skyblue Study Abroad",
+        "URL": "http://www.skybluestudyabroad.com/",
+        "Technologies": "HTML/CSS",
+        "Projecttype": "Static Website",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "Soledevotion Store",
+        "URL": "http://www.soledevotion.netdns.net/",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Shopping Cart (OpenSource), Prestashop",
+        "Role": "Convert Live Site In Prestashop"
+    },
+    {
+        "Website": "Jquery Gallery",
+        "URL": "http://www.lichtloesung.de/index.php/cat/c1063-Beleuchtung-Werbeflaechen.html#studio",
+        "Technologies": "HTML/CSS",
+        "Projecttype": "Jquery",
+        "Role": "Create Jquery Gallery For Live Site"
+    },
+    {
+        "Website": "A GOOD TABLE",
+        "URL": "agoodtable.com",
+        "Technologies": "ASP.NET/MSSQL",
+        "Projecttype": "Web Application",
+        "Role": "HTML Slicing, Creating All HTML Pages (Without Content)"
+    },
+    {
+        "Website": "BarksnRec",
+        "URL": "www.barksnrec.com",
+        "Technologies": "PHP/MYSQL",
+        "Projecttype": "Quick Project",
+        "Role": "HTML Slicing, Creating All HTML Pages (With Content)"
+    }
+]

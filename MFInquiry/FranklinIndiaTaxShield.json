@@ -1,0 +1,361 @@
+[{
+	"Equity": "HDFC Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "1,118,377.00",
+	"ValueCR": 121.03,
+	"percentage": 6.95
+}, {
+	"Equity": "Infosys",
+	"Sector": "Information Technology",
+	"Qty": "816,021.00",
+	"ValueCR": 90.2,
+	"percentage": 5.18
+}, {
+	"Equity": "IndusInd Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "717,072.00",
+	"ValueCR": 69.48,
+	"percentage": 3.99
+}, {
+	"Equity": "ICICI Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "2,458,640.00",
+	"ValueCR": 64.26,
+	"percentage": 3.69
+}, {
+	"Equity": "Bharti Airtel",
+	"Sector": "Telecommunication",
+	"Qty": "1,882,562.00",
+	"ValueCR": 64.08,
+	"percentage": 3.68
+}, {
+	"Equity": "Larsen",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "382,284.00",
+	"ValueCR": 48.76,
+	"percentage": 2.8
+}, {
+	"Equity": "Kotak Mahindra",
+	"Sector": "Banking & Financial Services",
+	"Qty": "660,224.00",
+	"ValueCR": 47.54,
+	"percentage": 2.73
+}, {
+	"Equity": "Yes Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "652,594.00",
+	"ValueCR": 47.37,
+	"percentage": 2.72
+}, {
+	"Equity": "Dr Reddys Labs",
+	"Sector": "Pharmaceuticals",
+	"Qty": "144,526.00",
+	"ValueCR": 44.93,
+	"percentage": 2.58
+}, {
+	"Equity": "Axis Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "969,367.00",
+	"ValueCR": 43.53,
+	"percentage": 2.5
+}, {
+	"Equity": "Tata Motors",
+	"Sector": "Automotive",
+	"Qty": "1,023,550.00",
+	"ValueCR": 40.05,
+	"percentage": 2.3
+}, {
+	"Equity": "Torrent Pharma",
+	"Sector": "Pharmaceuticals",
+	"Qty": "251,912.00",
+	"ValueCR": 36.57,
+	"percentage": 2.1
+}, {
+	"Equity": "UltraTechCement",
+	"Sector": "Cement & Construction",
+	"Qty": "124,001.00",
+	"ValueCR": 34.48,
+	"percentage": 1.98
+}, {
+	"Equity": "Pidilite Ind",
+	"Sector": "Chemicals",
+	"Qty": "605,201.00",
+	"ValueCR": 33.43,
+	"percentage": 1.92
+}, {
+	"Equity": "BPCL",
+	"Sector": "Oil & Gas",
+	"Qty": "372,746.00",
+	"ValueCR": 33.26,
+	"percentage": 1.91
+}, {
+	"Equity": "Wipro",
+	"Sector": "Information Technology",
+	"Qty": "572,267.00",
+	"ValueCR": 32.04,
+	"percentage": 1.84
+}, {
+	"Equity": "HCL Tech",
+	"Sector": "Information Technology",
+	"Qty": "372,671.00",
+	"ValueCR": 31.87,
+	"percentage": 1.83
+}, {
+	"Equity": "Amara Raja Batt",
+	"Sector": "Automotive",
+	"Qty": "345,526.00",
+	"ValueCR": 29.78,
+	"percentage": 1.71
+}, {
+	"Equity": "M&M",
+	"Sector": "Automotive",
+	"Qty": "232,666.00",
+	"ValueCR": 29.6,
+	"percentage": 1.7
+}, {
+	"Equity": "Hero Motocorp",
+	"Sector": "Automotive",
+	"Qty": "107,296.00",
+	"ValueCR": 28.91,
+	"percentage": 1.66
+}, {
+	"Equity": "Karur Vysya",
+	"Sector": "Banking & Financial Services",
+	"Qty": "574,663.00",
+	"ValueCR": 28.21,
+	"percentage": 1.62
+}, {
+	"Equity": "Sun Pharma",
+	"Sector": "Pharmaceuticals",
+	"Qty": "326,978.00",
+	"ValueCR": 26.82,
+	"percentage": 1.54
+}, {
+	"Equity": "Cummins",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "251,834.00",
+	"ValueCR": 25.95,
+	"percentage": 1.49
+}, {
+	"Equity": "Cadila Health",
+	"Sector": "Pharmaceuticals",
+	"Qty": "776,187.00",
+	"ValueCR": 25.42,
+	"percentage": 1.46
+}, {
+	"Equity": "Gujarat Pipavav",
+	"Sector": "Services",
+	"Qty": "1,724,129.00",
+	"ValueCR": 24.38,
+	"percentage": 1.4
+}, {
+	"Equity": "JagranPrakashan",
+	"Sector": "Media & Entertainment",
+	"Qty": "1,494,317.00",
+	"ValueCR": 23.86,
+	"percentage": 1.37
+}, {
+	"Equity": "Greaves Cotton",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "1,604,053.00",
+	"ValueCR": 22.99,
+	"percentage": 1.32
+}, {
+	"Equity": "Reliance",
+	"Sector": "Oil & Gas",
+	"Qty": "214,539.00",
+	"ValueCR": 21.77,
+	"percentage": 1.25
+}, {
+	"Equity": "TVS Motor",
+	"Sector": "Automotive",
+	"Qty": "745,100.00",
+	"ValueCR": 21.59,
+	"percentage": 1.24
+}, {
+	"Equity": "TCS",
+	"Sector": "Information Technology",
+	"Qty": "88,610.00",
+	"ValueCR": 21.59,
+	"percentage": 1.24
+}, {
+	"Equity": "AB Nuvo",
+	"Sector": "Conglomerates",
+	"Qty": "93,209.00",
+	"ValueCR": 20.2,
+	"percentage": 1.16
+}, {
+	"Equity": "Marico",
+	"Sector": "Consumer Non-durables",
+	"Qty": "893,208.00",
+	"ValueCR": 20.2,
+	"percentage": 1.16
+}, {
+	"Equity": "Havells India",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "651,514.00",
+	"ValueCR": 19.85,
+	"percentage": 1.14
+}, {
+	"Equity": "CARE",
+	"Sector": "Miscellaneous",
+	"Qty": "149,434.00",
+	"ValueCR": 19.68,
+	"percentage": 1.13
+}, {
+	"Equity": "Federal Bank",
+	"Sector": "Banking & Financial Services",
+	"Qty": "3,451,644.00",
+	"ValueCR": 19.33,
+	"percentage": 1.11
+}, {
+	"Equity": "ITC",
+	"Sector": "Tobacco",
+	"Qty": "557,791.00",
+	"ValueCR": 18.28,
+	"percentage": 1.05
+}, {
+	"Equity": "Exide Ind",
+	"Sector": "Automotive",
+	"Qty": "1,212,835.00",
+	"ValueCR": 17.76,
+	"percentage": 1.02
+}, {
+	"Equity": "ACC",
+	"Sector": "Cement & Construction",
+	"Qty": "130,540.00",
+	"ValueCR": 17.76,
+	"percentage": 1.02
+}, {
+	"Equity": "Gateway Distri",
+	"Sector": "Miscellaneous",
+	"Qty": "549,481.00",
+	"ValueCR": 17.76,
+	"percentage": 1.02
+}, {
+	"Equity": "Grasim",
+	"Sector": "Conglomerates",
+	"Qty": "46,840.00",
+	"ValueCR": 17.59,
+	"percentage": 1.01
+}, {
+	"Equity": "United Brewerie",
+	"Sector": "Food & Beverages",
+	"Qty": "183,776.00",
+	"ValueCR": 17.41,
+	"percentage": 1
+}, {
+	"Equity": "Bata India",
+	"Sector": "Consumer Non-durables",
+	"Qty": "330,291.00",
+	"ValueCR": 17.24,
+	"percentage": 0.99
+}, {
+	"Equity": "SKF India",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "140,536.00",
+	"ValueCR": 17.24,
+	"percentage": 0.99
+}, {
+	"Equity": "Balkrishna Ind",
+	"Sector": "Automotive",
+	"Qty": "260,849.00",
+	"ValueCR": 16.89,
+	"percentage": 0.97
+}, {
+	"Equity": "Arvind",
+	"Sector": "Manufacturing",
+	"Qty": "466,699.00",
+	"ValueCR": 16.72,
+	"percentage": 0.96
+}, {
+	"Equity": "Asian Paints",
+	"Sector": "Chemicals",
+	"Qty": "187,233.00",
+	"ValueCR": 16.54,
+	"percentage": 0.95
+}, {
+	"Equity": "Tata Comm",
+	"Sector": "Telecommunication",
+	"Qty": "371,567.00",
+	"ValueCR": 16.19,
+	"percentage": 0.93
+}, {
+	"Equity": "SBI",
+	"Sector": "Banking & Financial Services",
+	"Qty": "706,013.00",
+	"ValueCR": 15.85,
+	"percentage": 0.91
+}, {
+	"Equity": "Voltas",
+	"Sector": "Conglomerates",
+	"Qty": "467,158.00",
+	"ValueCR": 15.15,
+	"percentage": 0.87
+}, {
+	"Equity": "Apollo Tyres",
+	"Sector": "Automotive",
+	"Qty": "936,460.00",
+	"ValueCR": 14.63,
+	"percentage": 0.84
+}, {
+	"Equity": "Eicher Motors",
+	"Sector": "Automotive",
+	"Qty": "8,368.00",
+	"ValueCR": 14.11,
+	"percentage": 0.81
+}, {
+	"Equity": "Guj State Petro",
+	"Sector": "Oil & Gas",
+	"Qty": "928,561.00",
+	"ValueCR": 12.71,
+	"percentage": 0.73
+}, {
+	"Equity": "Ipca Labs",
+	"Sector": "Pharmaceuticals",
+	"Qty": "168,997.00",
+	"ValueCR": 12.54,
+	"percentage": 0.72
+}, {
+	"Equity": "Aarti Ind",
+	"Sector": "Chemicals",
+	"Qty": "186,421.00",
+	"ValueCR": 9.75,
+	"percentage": 0.56
+}, {
+	"Equity": "PNB",
+	"Sector": "Banking & Financial Services",
+	"Qty": "827,790.00",
+	"ValueCR": 9.58,
+	"percentage": 0.55
+}, {
+	"Equity": "Crompton Greave",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "461,950.00",
+	"ValueCR": 8.88,
+	"percentage": 0.51
+}, {
+	"Equity": "Guj Mineral",
+	"Sector": "Metals & Mining",
+	"Qty": "1,006,810.00",
+	"ValueCR": 8.53,
+	"percentage": 0.49
+}, {
+	"Equity": "Jubilant Food",
+	"Sector": "Miscellaneous",
+	"Qty": "56,330.00",
+	"ValueCR": 8.36,
+	"percentage": 0.48
+}, {
+	"Equity": "HT Media",
+	"Sector": "Media & Entertainment",
+	"Qty": "358,851.00",
+	"ValueCR": 3.31,
+	"percentage": 0.19
+}, {
+	"Equity": "Shakti Pumps",
+	"Sector": "Engineering & Capital Goods",
+	"Qty": "96,297.00",
+	"ValueCR": 1.57,
+	"percentage": 0.09
+}]

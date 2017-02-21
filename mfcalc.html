@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="MyApp">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>Personal : Investments</title>
+  <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" type="text/css" href="css/custome.css">
+  <script type="text/javascript" src="js/angular.js"></script>
+  <script type="text/javascript" src="js/sanitize.js"></script>
+  <script type="text/javascript" src="js/route.js"></script>
+  <script type="text/javascript" src="js/myjs.js"></script>
+</head>
+
+<body>
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Search</th>
+        <th><select name="selectType" id="selectType" class="form-control" ng-model='q'>
+          <option value="" ng-select>-- Select --</option>
+          <option value="{{type.MFCompany}}" ng-repeat="type in mfdata">{{type.MFCompany}}</option>
+        </select></th>
+      </tr>
+      <tr>
+        <th>Current Rate</th>
+        <td><input type="text" name="txtcurrate" id="txtcurrate" class="form-control" ng-model="txtcurrate" value="30.973"></td>
+      </tr>
+    </thead>
+  </table>
+  <div class="panel panel-default" ng-repeat="md in queryData = (mfdata | filter:{MFCompany:q})">
+    <div class="panel-heading">Mutual Funds ::-> {{md.Plan}}</div>
+    <div class="panel-body">
+      <table class="table table-bordered">
+        <tr>
+          <th>Company</th>
+          <td>{{md.MFCompany}}</td>
+        </tr>
+        <tr>
+          <th>Plan Name</th>
+          <td>
+            <div class="alert alert-info">{{md.Plan}}</div>
+          </td>
+        </tr>
+
+      </table>
+      <br>
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th></th>
+            <th>Total Units</th>
+            <th>{{totalUnits | number:3}}</th>
+            <th></th>
+            <th></th>
+            <th>Total Investments</th>
+            <th>{{totalPurchase | number:3}}</th>
+          </tr>
+          <tr>
+            <th colspan="2">Todays Return</th>
+            <td>{{netReturn(queryData) | number:4}}</td>
+            <th colspan="2">Todays Profit/Loss</th>
+            <td colspan="2">{{profitLoss(queryData) | number:4}}</td>
+          </tr>
+        
+          <tr>
+            <th>Date</th>
+            <th>Folio</th>
+            <th>Units</th>
+            <th>Rs.</th>
+            <th>Invested Value</th>
+            <th>Charges</th>
+            <th>Net</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="mf in md.Details ">
+            <td>{{mf.Date}}</td>
+            <td>{{mf.Folio}}</td>
+            <td><span ng-hide="mf.Units==0">{{mf.Units | number:4}}</span></td>
+            <td><span ng-hide="mf.Rs==0">{{mf.Rs | number:4}}</span></td>
+            <td><span ng-hide="mf.Units==0 && mf.Rs==0">{{mf.TotalValue | number:2}}</span></td>
+            <td><span ng-hide="mf.Units==0 && mf.Rs==0">{{mf.Charges}}</span></td>
+            <td><span ng-hide="mf.Units==0 && mf.Rs==0">{{mf.Net}}</span></td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <th></th>
+            <th>Total Units</th>
+            <th>{{totalUnits | number:3}}</th>
+            <th></th>
+            <th></th>
+            <th>Total Investments</th>
+            <th>{{totalPurchase | number:3}}</th>
+          </tr>
+          <tr>
+            <th colspan="2">Todays Return</th>
+            <td>{{netReturn(queryData) | number:4}}</td>
+            <th colspan="2">Todays Profit/Loss</th>
+            <td colspan="2">{{profitLoss(queryData) | number:4}}</td>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+  </div>
+</body>
+
+</html>

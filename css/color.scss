@@ -1,0 +1,29 @@
+$blackcolor: #000000;
+$WhiteColor: #ffffff;
+$YellowColor: #fff1c7;
+$DarkBlue: #0033cc;
+$LightBlue: #89aee5;
+$NavBg: #adc9f7;
+$ContentHeadBG: #d6e5f3;
+$DarkBorder: #002d96;
+$LightGray1: #f1f1f1;
+$LightGray2: #dbdbdb;
+$TheadGrStart1: #caddf8;
+$TheadGrStart2: #7da5e0;
+$SectionTitleBG: #507cd1;
+$ActivePager: #b95705;
+$TdBorderLight: #d0d7e5;
+@mixin BackgroundImage($url, $norepeat, $center, $center, $bgclr){
+	background: url("../images/" + $url) $norepeat $center $center $bgclr;
+}
+@mixin BackgroundGradient($StartPoint, $EndPoint)
+{
+	background: $StartPoint;
+	background: -moz-linear-gradient(top, $StartPoint 0%, $EndPoint 100%); 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, $StartPoint), color-stop(100%, $EndPoint)); 
+	background: -webkit-linear-gradient(top, $StartPoint 0%, $EndPoint 100%); 
+	background: -o-linear-gradient(top, $StartPoint 0%, $EndPoint 100%); 
+	background: -ms-linear-gradient(top, $StartPoint 0%, $EndPoint 100%); 
+	background: linear-gradient(to bottom, $StartPoint 0%, $EndPoint 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$StartPoint', endColorstr='$EndPoint', GradientType=0 );	
+}

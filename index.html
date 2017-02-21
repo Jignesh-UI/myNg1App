@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="MyApp">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Personal : Investments</title>
+<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap-theme.min.css">
+<link rel="stylesheet" type="text/css" href="css/custome.css">
+<script type="text/javascript" src="js/angular.js"></script>
+<script type="text/javascript" src="js/sanitize.js"></script>
+<script type="text/javascript" src="js/route.js"></script>
+<script type="text/javascript" src="js/myjs.js"></script>
+<script type="text/javascript">
+</script>
+</head>
+<body>
+<div class="container-fluid" ng-controller="setnavigation">
+  <div class="page-header">
+    <ul class="nav nav-pills nav-justified">
+      <li ng-class="{active:isSelected(0)}"><a href="#/login" ng-click="selectTab(0)">Home</a></li>
+      <li ng-class="{active:isSelected(1)}"><a href="#/investments" ng-click="selectTab(1)">Investments</a></li>
+      <li ng-class="{active:isSelected(2)}"><a href="#/stock" ng-click="selectTab(2)">Stocks</a></li>
+      <li ng-class="{active:isSelected(3)}"><a href="#/planning" ng-click="selectTab(3)">Planning</a></li>
+      <li ng-class="{active:isSelected(4)}"><a href="#/buysell" ng-click="selectTab(4)">Buy/Sell</a></li>
+      <li ng-class="{active:isSelected(5)}"><a href="#/mfcalc" ng-click="selectTab(5)">MF</a></li>
+      <li ng-class="{active:isSelected(6)}"><a href="#/ulip" ng-click="selectTab(6)">ULIP</a></li>
+      <li ng-class="{active:isSelected(7)}"><a href="#/phonecode" ng-click="selectTab(7)">Phone Codes</a></li>
+      <li ng-class="{active:isSelected(8)}"><a href="#/profile" ng-click="selectTab(8)">Profile</a> </li>
+    </ul>
+  </div>
+  <div class="col-lg-2 col-md-2"> <img style="display:none" src="images/Jignesh_1.jpg" class="img-thumbnail" alt=""> </div>
+  <div class="col-lg-10">
+    <div id="view" ng-view></div>
+  </div>
+</div>
+</body>
+</html>

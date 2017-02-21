@@ -1,0 +1,41 @@
+<div class="col-lg-12 col-md-10">
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Search Investment Type</th>
+      <th><select name="selectType" id="selectType" class="form-control" ng-model='q'>
+          <option value="" ng-select>-- Select --</option>
+          <option value="{{type.InvestmentType}}" ng-repeat="type in local_summary">{{type.InvestmentType}}</option>
+        </select></th>
+    </tr>
+  </thead>
+</table>
+</div>
+<div class="col-lg-12 col-md-10">
+<div class="panel panel-default" ng-repeat="localdata in local_summary | filter:{InvestmentType:q}">
+  <div class="panel-heading">{{localdata.InvestmentType}}</div>
+  <div class="panel-body">
+    <div ng-repeat="yearwise in localdata.FullSummary">
+      <div class="well well-sm">{{yearwise.Year}} Interest Rate @ {{yearwise.IntrestRate}}% | Total Investment : {{yearwiseTotal(yearwise)}} | Interest Earn : {{yearwiseInterest(yearwise)}} </div>
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Installement</th>
+            <th ng-hide="localdata.InvestmentType=='PPF'"> Interest</th>
+            <th ng-hide="localdata.InvestmentType=='PPF'">Total Earnings</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="summerywise in yearwise.Summary">
+            <td >{{summerywise.Date}}</td>
+            <td >{{summerywise.Installment}}</td>
+            <td  ng-hide="localdata.InvestmentType=='PPF'">{{summerywise.Earnings}}</td>
+            <td  ng-hide="localdata.InvestmentType=='PPF'">{{summerywise.Interest}}</td>
+          </tr>
+        </tbody>        
+      </table>
+    </div>
+  </div>
+</div>
+</div>

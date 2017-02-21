@@ -1,0 +1,32 @@
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <td>Equity</td>
+      <td>Sector</td>
+      <td>Quantity</td>
+      <td>Value in Cr</td>
+      <td>Investment in %</td>
+    </tr>
+    <tr>
+      <td><input type="text" data-ng-model="txtequity" class="form-control"></td>
+      <td><input type="text" data-ng-model="txtsector" class="form-control"></td>
+      <td></td>
+      <td></td>
+      <td ><input type="button" value="Find" ng-click="applyFilter()" /></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="jsonfiledata in JsonData | orderBy:'Sector'">
+      <td>{{jsonfiledata.Equity}}</td>
+      <td>{{jsonfiledata.Sector}}</td>
+      <td>{{jsonfiledata.Qty}}</td>
+      <td>{{jsonfiledata.ValueCR}}</td>
+      <td>{{jsonfiledata.percentage}}</td>
+    </tr>
+    <tr>
+    	<td>Average</td>
+    	<td colspan="4">{{Average(JsonData) | number:2}}</td>
+    </tr>
+    
+  </tbody>
+</table>
